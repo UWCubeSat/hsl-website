@@ -1,0 +1,246 @@
+/* https://www.washington.edu/brand/graphic-elements/primary-color-palette/ */
+/* UW purple: 4b2e83 */
+/* UW gold: b7a57a <- use this one*/
+/* UW gold (web): e8e3d3 */
+/* UW metallic gold: 85754d */
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+  /* background-color: #eee; */
+  font-size: 18px;
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  color: #333;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+
+    font-weight: 700;
+    text-align: center;
+    color: #333;
+    font-size: 40px;
+}
+
+
+.header {
+  height: 80px;
+  width: 100%;
+  background-color: #eee;
+  margin-left: 0px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  transition: background-color 200ms, box-shadow 200ms;
+  border-bottom: 1px solid #eee;
+  z-index: 1000;
+}
+
+.header-scrolled {
+  background-color: #fff;
+  box-shadow: 0 4px 12px 0px #00000006;
+}
+
+.header-logo {
+  width: 72px;
+  height: 72px;
+  margin-left: 5px;
+  margin-right: auto;
+  background-image: url('images/hsl-logo-no-text-bw-transparent.png');
+  background-size: 72px 72px;
+}
+
+/* TODO make this exactly our color rather than kind close */
+.header-logo:hover {
+  filter: invert(1) brightness(50%) sepia(100%);
+}
+
+.header-link {
+  color:#333;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 8px;
+  padding: 20px 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.header-link:hover {
+  color: #B7A57A;
+}
+
+
+
+.header-cta-link, .hero-cta-link, .cta-link, .cta-link-light {
+  padding: 10px 20px;
+  outline: 1px #4b2e83 solid;
+  background-color: #4b2e83;
+  color: #fff;
+  text-decoration: none;
+  transition-duration: 150ms;
+  white-space: nowrap;
+}
+
+.cta-link-light {
+  outline: 1px #4b2e83 solid;
+  background-color: #fff;
+  color: #4b2e83;
+}
+
+.cta-link-light:hover {
+  background-color: #4b2e83;
+  color: #fff;
+}
+
+/* .cta-link-light {
+  outline: 1px #b7a57a solid;
+  background-color: #fff;
+  color: #b7a57a;
+}
+
+.cta-link-light:hover {
+  background-color: #b7a57a;
+  color: #fff;
+} */
+
+.header-cta-link {
+  margin-left: auto;
+  margin-right: 15px;
+}
+
+.hero-cta-link {
+  margin: 0 auto;
+  width: 100px;
+  display:block;
+  text-align: center;
+}
+
+.header-cta-link:hover, .hero-cta-link:hover, .cta-link:hover {
+  background-color: #fff;
+  color: #4b2e83;
+}
+
+.landing-shading {
+  height: 760px;
+  width: 100%;
+  background-color: #eee;
+  position: absolute;
+  z-index: -10;
+}
+
+.subtitle {
+  text-align: center;
+  z-index: -6;
+}
+
+.landing-hero-container {
+  position: relative;
+  overflow-x: hidden;
+  width: 100%;
+  margin-top: -80px;
+}
+
+.landing-hero-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.landing-hero-caption {
+  text-align: center;
+  font-style: italic;
+  margin-top: -45px;
+}
+
+
+.tagline {
+  text-align: center;
+  max-width: 600px;
+  z-index: -6;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+
+.footer {
+  width: 100%;
+  /* height: 450p x; */
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(27,18,45);
+  background: linear-gradient(67deg, rgba(27,18,45,1) 0%, rgba(36,22,61,1) 35%, rgba(53,33,92,1) 100%);
+  overflow: hidden;
+}
+
+.footer-element {
+  height: 300px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.footer-column-header {
+  color: #ccc;
+  font-weight: 600;
+  font-size: 24px;
+  margin: 10px 0px;
+  white-space: nowrap;
+}
+
+.footer-link {
+  color: #ccc;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.footer-link:hover {
+  color: #B7A57A;
+}
+
+.inline-link {
+  text-decoration: none;
+  font-weight: 600;
+  color: #333;
+}
+
+.inline-link:hover {
+  color: #b7a57a;
+  text-decoration: underline;
+}
+
+
+.email-link {
+  text-decoration: none;
+  font-weight: 600;
+  color: #333;
+}
+
+.email-link:hover {
+  color: #b7a57a;
+  text-decoration: underline;
+}
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -180px;
+  visibility: hidden;
+}
