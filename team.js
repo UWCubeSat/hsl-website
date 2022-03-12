@@ -43,84 +43,84 @@ var leadership = [
 
 var members = [
     {
-        name: "Sathvik Chinta",
-        roles: "",
-        image: "member-nopic.png"
-    },
-    {
-        name: "Haili Kuester",
-        roles: "",
-        image: "member-nopic.png"
+        name: "Srushti Adesara",
+        roles: "Software",
+        image: "srushti-adesara.jpg"
     },
     {
         name: "Rudy Garcia",
-        roles: "",
+        roles: "Electronics",
         image: "rudy-garcia.png"
     },
     {
-        name: "Jevin Gu",
-        roles: "",
-        image: "jevin-gu.png"
-    },
-    {
-        name: "Rahul Gupta",
-        roles: "",
+        name: "Karen Haining",
+        roles: "Software",
         image: "member-nopic.png"
     },
     {
-        name: "Jordan Hatch",
-        roles: "",
-        image: "jordan-hatch.png"
+        name: "Peter Hale",
+        roles: "Electronics",
+        image: "member-nopic.png"
     },
     {
-        name: "Daniel Lord",
-        roles: "",
+        name: "Joseph Iannone",
+        roles: "Propulsion",
+        image: "joseph-iannone.jpg"
+    },
+    {
+        name: "Samuel Lott",
+        roles: "Mechanical",
         image: "member-nopic.png"
+    },
+    {
+        name: "Ian McLean",
+        roles: "Science & Operations",
+        image: "ian-mclean.jpg"
     },
     {
         name: "Armand Mousavi",
-        roles: "",
+        roles: "Star tracking software",
         image: "member-nopic.png"
     },
     {
-        name: "James Ott",
-        roles: "",
-        image: "james-ott.png"
+        name: "Jacob Sawyer",
+        roles: "Mechanical member",
+        image: "jacob-sawyer.jpg"
     },
     {
-        name: "Kavel Rao",
-        roles: "",
-        image: "kavel-rao.png"
-    },
-    {
-        name: "Jared Rapp",
-        roles: "",
-        image: "jared-rapp.png"
-    },
-    {
-        name: "Eli Reed",
-        roles: "Former President",
+        name: "Austin Shaw",
+        roles: "Solar panels",
         image: "member-nopic.png"
     },
     {
-        name: "Seth Reed",
-        roles: "",
-        image: "member-nopic.png"
-    },
-    {
-        name: "Andrew Smith",
-        roles: "",
-        image: "member-nopic.png"
+        name: "Mitsuki Shimomura",
+        roles: "Mechanical",
+        image: "mitsuki-shimomura.jpg"
     },
     {
         name: "Sebastian Soetomo",
-        roles: "",
+        roles: "Software",
         image: "member-nopic.png"
     },
     {
-        name: "Maia Willebrand",
-        roles: "",
-        image: "maia-willebrand.png"
+        name: "Lucas Swanson",
+        roles: "Science",
+        image: "lucas-swanson.jpg"
+    },
+    {
+        name: "Vincent Wilson",
+        roles: "Software",
+        image: "vincent-wilson.jpg"
+    },
+    {
+        name: "Kenneth Yang",
+        roles: "Software",
+        image: "kenneth-yang.jpg"
+    },
+    {
+        name: "Edward Zhang",
+        roles: "Software",
+        image: "edward-zhang.jpg"
     },
 ];
 
@@ -129,6 +129,11 @@ var alumni = [
         name: "Austin Burnham",
         roles: "Webmaster",
         image: "austin-burnham.jpg"
+    },
+    {
+        name: "Sathvik Chinta",
+        roles: "",
+        image: "member-nopic.png"
     },
     {
         name: "John Correy",
@@ -156,6 +161,21 @@ var alumni = [
         image: "hans-gaensbauer.png"
     },
     {
+        name: "Jevin Gu",
+        roles: "",
+        image: "jevin-gu.png"
+    },
+    {
+        name: "Rahul Gupta",
+        roles: "",
+        image: "member-nopic.png"
+    },
+    {
+        name: "Jordan Hatch",
+        roles: "",
+        image: "jordan-hatch.png"
+    },
+    {
         name: "Alexander Hicker",
         roles: "",
         image: "member-nopic.png"
@@ -164,6 +184,11 @@ var alumni = [
         name: "Logan Ince",
         roles: "",
         image: "logan-ince.png"
+    },
+    {
+        name: "Haili Kuester",
+        roles: "",
+        image: "member-nopic.png"
     },
     {
         name: "Marshall Lee",
@@ -182,6 +207,11 @@ var alumni = [
     },
     {
         name: "John Leitch",
+        roles: "",
+        image: "member-nopic.png"
+    },
+    {
+        name: "Daniel Lord",
         roles: "",
         image: "member-nopic.png"
     },
@@ -216,14 +246,49 @@ var alumni = [
         image: "member-nopic.png"
     },
     {
-        name: "Haley Stewart",
+        name: "James Ott",
+        roles: "Propulsion",
+        image: "james-ott.png"
+    },
+    {
+        name: "Kavel Rao",
         roles: "",
-        image: "haley-stewart.png"
+        image: "kavel-rao.png"
+    },
+    {
+        name: "Jared Rapp",
+        roles: "",
+        image: "jared-rapp.png"
+    },
+    {
+        name: "Eli Reed",
+        roles: "Former President",
+        image: "member-nopic.png"
+    },
+    {
+        name: "Seth Reed",
+        roles: "",
+        image: "member-nopic.png"
     },
     {
         name: "Simon Shimel",
         roles: "",
         image: "simon-shimel.png"
+    },
+    {
+        name: "Andrew Smith",
+        roles: "",
+        image: "member-nopic.png"
+    },
+    {
+        name: "Haley Stewart",
+        roles: "",
+        image: "haley-stewart.png"
+    },
+    {
+        name: "Maia Willebrand",
+        roles: "",
+        image: "maia-willebrand.png"
     },
 ];
 

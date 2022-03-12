@@ -4,8 +4,8 @@ document.write(
     <div class="footer-element">
         <p class="footer-column-header">Connect with us</p>
         <a class="footer-link" href="mailto:cubesat@uw.edu">cubesat@uw.edu</a><br>
-        <a class="footer-link" href="https://www.facebook.com/UWCubeSat/">Facebook</a><br>
-        <a class="footer-link" href="https://twitter.com/husky_satellite">Twitter</a><br>
+        <a class="footer-link" href="https://www.facebook.com/huskysat/">Facebook</a><br>
+        <a class="footer-link" href="https://twitter.com/huskysat">Twitter</a><br>
         <a class="footer-link" href="https://github.com/UWCubeSat">GitHub</a><br>
         <a class="footer-link" href="https://www.instagram.com/huskysatlab/">Instagram</a><br>
         <a class="footer-link" href="https://huskylink.washington.edu/organization/cubesat">HuskyLink</a><br>
