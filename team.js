@@ -88,6 +88,11 @@ var members = [
         image: "tri-nguyen.jpg"
     },
     {
+        name: "Hangliang Ren (Harry)",
+        roles: "Software",
+        image: "member-nopic.png"
+    },
+    {
         name: "Jacob Sawyer",
         roles: "Mechanical member",
         image: "jacob-sawyer.jpg"
