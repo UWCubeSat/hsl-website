@@ -268,7 +268,7 @@ var alumni = [
     {
         name: "Eli Reed",
         roles: "Former President",
-        image: "member-nopic.png"
+        image: "eli-reed.jpg"
     },
     {
         name: "Seth Reed",
