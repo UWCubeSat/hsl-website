@@ -118,6 +118,11 @@ var members = [
         image: "lucas-swanson.jpg"
     },
     {
+        name: "Ryan Welch",
+        roles: "Reaction wheels",
+        image: "member-nopic.png"
+    },
+    {
         name: "Vincent Wilson",
         roles: "Software",
         image: "vincent-wilson.jpg"
