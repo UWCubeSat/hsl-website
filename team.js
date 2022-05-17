@@ -68,6 +68,11 @@ var members = [
         image: "joseph-iannone.jpg"
     },
     {
+        name: "Grace Kelly",
+        roles: "Mechanical member",
+        image: "member-nopic.png"
+    },
+    {
         name: "Samuel Lott",
         roles: "Mechanical",
         image: "member-nopic.png"
