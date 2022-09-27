@@ -11,7 +11,7 @@ var leadership = [
   },
   {
     name: "Mark Polyakov",
-    roles: "Advisor",
+    roles: "Social Chair",
     image: "mark-polyakov.png"
   },
   {
