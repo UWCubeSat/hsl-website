@@ -6,7 +6,7 @@ var leadership = [
   },
   {
     name: "Grace Kelly",
-    roles: "Mechanical member",
+    roles: "Secretary",
     image: "member-nopic.png"
   },
   {
@@ -20,8 +20,13 @@ var leadership = [
     image: "alnis-smidchens.png"
   },
   {
+    name: "Ryan Welch",
+    roles: "Marketing",
+    image: "member-nopic.png"
+  },
+  {
     name: "Edward Zhang",
-    roles: "Recruiter<br>Marketing",
+    roles: "Recruiter",
     image: "edward-zhang.jpg"
   },
 ];
@@ -56,11 +61,6 @@ var members = [
     name: "Mitsuki Shimomura",
     roles: "Mechanical",
     image: "mitsuki-shimomura.jpg"
-  },
-  {
-    name: "Ryan Welch",
-    roles: "Reaction wheels",
-    image: "member-nopic.png"
   },
   {
     name: "Kenneth Yang",
