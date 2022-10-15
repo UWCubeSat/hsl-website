@@ -21,17 +21,22 @@ var leadership = [
   },
   {
     name: "Ryan Welch",
-    roles: "Marketing",
+    roles: "Treasurer",
     image: "member-nopic.png"
   },
   {
     name: "Edward Zhang",
-    roles: "Recruiter",
+    roles: "Recruiter<br>Marketing",
     image: "edward-zhang.jpg"
   },
 ];
 
 var members = [
+  {
+    name: "Srushti Adesara",
+    roles: "Star Tracker",
+    image: "srushti-adesara.jpg"
+  },
   {
     name: "Sathvik Chinta",
     roles: "",
@@ -39,27 +44,32 @@ var members = [
   },
   {
     name: "Karen Haining",
-    roles: "Software",
+    roles: "Star Tracker",
     image: "member-nopic.png"
   },
   {
     name: "Peter Hale",
-    roles: "Electronics",
+    roles: "Reaction Wheels",
+    image: "member-nopic.png"
+  },
+  {
+    name: "Daniel Lord",
+    roles: "Propulsion",
     image: "member-nopic.png"
   },
   {
     name: "Tri Nguyen",
-    roles: "Software",
+    roles: "Star Tracker",
     image: "tri-nguyen.jpg"
   },
   {
-    name: "Austin Shaw",
-    roles: "Solar panels",
+    name: "Ronan Nopp",
+    roles: "",
     image: "member-nopic.png"
   },
   {
     name: "Mitsuki Shimomura",
-    roles: "Mechanical",
+    roles: "Propulsion",
     image: "mitsuki-shimomura.jpg"
   },
   {
@@ -71,11 +81,6 @@ var members = [
 ];
 
 var alumni = [
-  {
-    name: "Srushti Adesara",
-    roles: "Software",
-    image: "srushti-adesara.jpg"
-  },
   {
     name: "Allen Aby",
     roles: "Software Lead",
@@ -167,6 +172,12 @@ var alumni = [
     image: "jacob-sawyer.jpg"
   },
 
+  {
+    name: "Austin Shaw",
+    roles: "Solar panels",
+    image: "member-nopic.png"
+  },
+
 
   {
     name: "Sebastian Soetomo",
@@ -216,11 +227,6 @@ var alumni = [
   },
   {
     name: "John Leitch",
-    roles: "",
-    image: "member-nopic.png"
-  },
-  {
-    name: "Daniel Lord",
     roles: "",
     image: "member-nopic.png"
   },
