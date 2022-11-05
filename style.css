@@ -23,10 +23,10 @@ h1 {
 
 h2 {
 
-    font-weight: 700;
-    text-align: center;
-    color: #333;
-    font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  color: #333;
+  font-size: 40px;
 }
 
 
@@ -58,6 +58,8 @@ h2 {
   margin-right: auto;
   background-image: url('images/hsl-logo-no-text-bw-transparent.png');
   background-size: 72px 72px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* TODO make this exactly our color rather than kind close */
@@ -66,7 +68,7 @@ h2 {
 }
 
 .header-link {
-  color:#333;
+  color: #333;
   font-weight: 600;
   text-decoration: none;
   margin: 8px;
@@ -80,8 +82,10 @@ h2 {
 }
 
 
-
-.header-cta-link, .hero-cta-link, .cta-link, .cta-link-light {
+.header-cta-link,
+.hero-cta-link,
+.cta-link,
+.cta-link-light {
   padding: 10px 20px;
   outline: 1px #4b2e83 solid;
   background-color: #4b2e83;
@@ -121,11 +125,13 @@ h2 {
 .hero-cta-link {
   margin: 0 auto;
   width: 100px;
-  display:block;
+  display: block;
   text-align: center;
 }
 
-.header-cta-link:hover, .hero-cta-link:hover, .cta-link:hover {
+.header-cta-link:hover,
+.hero-cta-link:hover,
+.cta-link:hover {
   background-color: #fff;
   color: #4b2e83;
 }
@@ -141,6 +147,7 @@ h2 {
 .subtitle {
   text-align: center;
   z-index: -6;
+  margin: auto;
 }
 
 .landing-hero-container {
@@ -155,10 +162,10 @@ h2 {
 .landing-hero-image {
   display: block;
   margin-left: auto;
-  margin-right: auto;  
+  margin-right: auto;
   margin-left: 50%;
   transform: translateX(-50%);
-  max-width: 90%;
+  max-width: 80%;
   align-self: center;
 }
 
@@ -189,8 +196,8 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(27,18,45);
-  background: linear-gradient(67deg, rgba(27,18,45,1) 0%, rgba(36,22,61,1) 35%, rgba(53,33,92,1) 100%);
+  background: rgb(27, 18, 45);
+  background: linear-gradient(67deg, rgba(27, 18, 45, 1) 0%, rgba(36, 22, 61, 1) 35%, rgba(53, 33, 92, 1) 100%);
   overflow: hidden;
 }
 
@@ -247,4 +254,23 @@ a.anchor {
   position: relative;
   top: -180px;
   visibility: hidden;
+}
+
+
+@media (max-width: 600px) {
+  .header {
+    font-size: 16px;
+  }
+
+  .header-logo {
+    background-size: 50px 50px;
+  }
+
+  .header-link {
+    padding: 20px 5px;
+  }
+
+  .header-cta-link {
+    padding: 10px 10px;
+  }
 }

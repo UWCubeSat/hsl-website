@@ -21,9 +21,6 @@ document.write(
         <a class="footer-link" href="missions.html#phat-2">PHAT-2</a><br>
         <a class="footer-link" href="missions.html#minimee">MiniMee</a><br>
         <a class="footer-link" href="missions.html#huskysat-2">HuskySat-2</a><br>
-    </div>
-
-    <div class="footer-element">
         <p class="footer-column-header">Join us</p>
         <a class="footer-link" href="join.html#student">Apply for membership</a><br>
         <a class="footer-link" href="join.html#sponsor">Sponsor us</a><br>
