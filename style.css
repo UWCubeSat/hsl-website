@@ -148,6 +148,7 @@ h2 {
   text-align: center;
   z-index: -6;
   margin: auto;
+  padding: 0 20px;
 }
 
 .landing-hero-container {
