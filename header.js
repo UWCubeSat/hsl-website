@@ -4,7 +4,7 @@ document.write(
     <a class="header-logo" href="index.html">
     <a class="header-link" href="team.html">TEAM</a>
     <a class="header-link" href="missions.html">MISSIONS</a>
-    <a class="header-link" href="newsletter.html">NEWSLETTER</a>
+    <a class="header-link" href="https://newsletter.huskysat.org">NEWSLETTER</a>
     <a class="header-link" href="sponsors.html">SPONSORS</a>
     <a class="header-cta-link" href="join.html">JOIN US</a>
 </div>

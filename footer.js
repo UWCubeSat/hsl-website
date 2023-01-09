@@ -11,7 +11,7 @@ document.write(
         <a class="footer-link" href="https://huskylink.washington.edu/organization/cubesat">HuskyLink</a><br>
         <a class="footer-link" href="https://discord.gg/GFjsq4Y">Discord</a><br>
         <a class="footer-link" href="http://huskysatellitelab.com">Old website</a><br>
-        <a class="footer-link" href="newsletter.html">Newsletter</a>
+        <a class="footer-link" href="https://newsletter.huskysat.org">Newsletter</a>
     </div>
 
     <div class="footer-element">

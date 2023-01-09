@@ -204,3 +204,7 @@
     text-decoration: underline;
     color: #b7a57a;
 }
+
+.substack-embed {
+    margin: 200px auto;
+}
