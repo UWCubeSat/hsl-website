@@ -11,15 +11,28 @@ var leadership = [
     link: "https://www.linkedin.com/mwlite/in/grace-kelly-0910ab226",
   },
   {
+    name: "Tri Nguyen",
+    roles: "Star/Earth Tracker",
+    image: "tri-nguyen.jpg",
+    link: "https://www.linkedin.com/in/trivnguyen",
+  },
+  {
     name: "Mark Polyakov",
     roles: "Social Chair",
     image: "mark-polyakov.png",
     link: "https://markasoftware.com",
   },
   {
+    name: "Aryan Sharma",
+    roles: "Software, Treasurer",
+    image: "aryan-sharma.jpg",
+    link: "https://www.linkedin.com/in/aryan-sharma-248b07246",
+  },
+  {
     name: "Alnis Smidchens",
     roles: "President<br>Webmaster",
-    image: "alnis-smidchens.png",
+    image: "alnis-smidchens.jpg",
+    link: "https://www.alnis.dev"
   },
   {
     name: "Ryan Welch",
@@ -51,6 +64,11 @@ var members = [
     roles: "Reaction Wheels",
     image: "ellie-brosius.png",
     link: "https://www.linkedin.com/in/eleanor-brosius-a36616225",
+  },
+  {
+    name: "Manasi Ganti",
+    roles: "Comms",
+    image: "member-nopic.png",
   },
   {
     name: "Marcial Romero Gomez",
@@ -87,14 +105,18 @@ var members = [
     link: "https://www.linkedin.com/in/aileen-laubach/",
   },
   {
-    name: "Tri Nguyen",
-    roles: "Star/Earth Tracker",
-    image: "tri-nguyen.jpg",
-    link: "https://www.linkedin.com/in/trivnguyen",
-  },
-  {
     name: "Ronan Nopp",
     roles: "",
+    image: "member-nopic.png",
+  },
+  {
+    name: "Adam Olsen",
+    roles: "Mechanical",
+    image: "adam-olsen.jpg",
+  },
+  {
+    name: "Karuna Petwe",
+    roles: "Earth Tracker",
     image: "member-nopic.png",
   },
   {
@@ -102,12 +124,6 @@ var members = [
     roles: "Structures",
     image: "member-nopic.png",
     link: "https://www.linkedin.com/in/arathy-rengith-b9762b1b9/",
-  },
-  {
-    name: "Aryan Sharma",
-    roles: "Software, Treasurer",
-    image: "member-nopic.png",
-    link: "https://www.linkedin.com/in/aryan-sharma-248b07246",
   },
   {
     name: "Mitsuki Shimomura",
@@ -387,12 +403,10 @@ var cards = {
 
 cards.forEach((member) =>
   document.write(
-    `<div class="team-member-card">` +
-      (member["link"] ? `<a href="${member.link}">` : "") +
-      `
-      <img width=200px height=200px class="team-member-photo" src="images/members/${member.image}">` +
-      (member["link"] ? `</a>` : "") +
-      `
+    `<div class="team-member-card">
+      ${member["link"] ? `<a href="${member.link}" target="_blank" rel="noopener">` : ""}
+      <img width=200px height=200px class="team-member-photo" src="images/members/${member.image}">
+      ${(member["link"] ? `</a>` : "")}
       <p class="team-member-name">${member.name}</p>
       <p class="team-member-roles">${member.roles}</p>
     </div>
