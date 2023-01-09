@@ -60,6 +60,12 @@ var members = [
     image: "member-nopic.png",
   },
   {
+    name: "Sara Anders-McDowell",
+    roles: "Propulsion",
+    image: "sara-anders-mcdowell.jpg",
+    link: "https://www.linkedin.com/in/sara-anders/",
+  },
+  {
     name: "Ellie Brosius",
     roles: "Reaction Wheels",
     image: "ellie-brosius.png",
@@ -93,10 +99,22 @@ var members = [
     image: "member-nopic.png",
   },
   {
+    name: "Brad Keen",
+    roles: "Propulsion",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/brad-keen/",
+  },
+  {
     name: "Semin Kim",
     roles: "Earth Tracker Software",
     image: "member-nopic.png",
     link: "https://www.linkedin.com/in/se-min-kim-308406209/",
+  },
+  {
+    name: "William Lacrampe",
+    roles: "Propulsion, Structures",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/william-lacrampe/",
   },
   {
     name: "Aileen Laubach",
