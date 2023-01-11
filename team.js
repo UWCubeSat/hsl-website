@@ -66,6 +66,12 @@ var members = [
     link: "https://www.linkedin.com/in/sara-anders/",
   },
   {
+    name: "Alexander Billesberger",
+    roles: "Mechanical & Systems Engineer",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/alexander-billesberger",
+  },
+  {
     name: "Ellie Brosius",
     roles: "Reaction Wheels",
     image: "ellie-brosius.png",
@@ -96,6 +102,11 @@ var members = [
   {
     name: "Peter Hale",
     roles: "Reaction Wheels",
+    image: "member-nopic.png",
+  },
+  {
+    name: "William Jackson",
+    roles: "Solar panels lead",
     image: "member-nopic.png",
   },
   {
