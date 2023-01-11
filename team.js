@@ -85,7 +85,7 @@ var members = [
   {
     name: "Marcial Romero Gomez",
     roles: "Propulsion",
-    image: "marcial-gomez.png",
+    image: "marcial-gomez.jpeg",
     link: "https://www.linkedin.com/in/marcial-romero-gomez-574ab5249",
   },
   {
