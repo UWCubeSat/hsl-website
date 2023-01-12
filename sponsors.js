@@ -14,7 +14,21 @@ var sponsors = [
     url: 'https://www.nasa.gov/',
     image: 'images/sponsors/200/nasa-icon-200.png',
   },
-
+  {
+    name: 'AMSAT',
+    url: 'https://www.amsat.org/',
+    image: 'images/sponsors/200/amsat-logo-200.png',
+  },
+  {
+    name: 'Valispace',
+    url: 'https://www.valispace.com/',
+    image: 'images/sponsors/200/valispace-icon-200.png',
+  },
+  {
+    name: 'SimScale',
+    url: 'https://www.simscale.com/',
+    image: 'images/sponsors/200/simscale-icon-200.png',
+  },
   {
     name: 'Green Heron Engineering',
     url: 'https://www.greenheronengineering.com/',
@@ -26,20 +40,9 @@ var sponsors = [
     image: 'images/sponsors/200/takasago-fluidic-systems-icon-200.png',
   },
   {
-    name: 'Valispace',
-    url: 'https://www.valispace.com/',
-    image: 'images/sponsors/200/valispace-icon-200.png',
-  },
-  {
     name: 'Systima Technologies',
     url: 'https://www.systima.com/',
     image: 'images/sponsors/icons/systima-technologies-icon.png',
-  },
-
-  {
-    name: 'AMSAT',
-    url: 'https://www.amsat.org/',
-    image: 'images/sponsors/200/amsat-logo-200.png',
   },
   {
     name: 'Molex',
