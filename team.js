@@ -66,6 +66,12 @@ var members = [
     link: "https://www.linkedin.com/in/sara-anders/",
   },
   {
+    name: "Marcin Anforowicz",
+    roles: "Magnetorquers & Reaction Wheels Engineer",
+    image: "marcin-anforowicz.jpg",
+    link: "https://www.linkedin.com/in/marcin-anforowicz-8b79b7232/",
+  },
+  {
     name: "Alexander Billesberger",
     roles: "Mechanical & Systems Engineer",
     image: "member-nopic.png",
