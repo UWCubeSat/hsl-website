@@ -140,6 +140,12 @@ var members = [
     link: "https://www.linkedin.com/in/aileen-laubach/",
   },
   {
+    name: "Charles Nguyen",
+    roles: "Reaction Wheels Member",
+    image: "charles-nguyen.jpg",
+    link: "https://www.linkedin.com/in/charles-d-nguyen/",
+  },
+  {
     name: "Ronan Nopp",
     roles: "",
     image: "member-nopic.png",
