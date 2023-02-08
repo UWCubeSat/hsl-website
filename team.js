@@ -84,6 +84,12 @@ var members = [
     link: "https://www.linkedin.com/in/eleanor-brosius-a36616225",
   },
   {
+    name: "Rushav Dash",
+    roles: "Power Distribution Member",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/rushav-dash/",
+  },
+  {
     name: "Manasi Ganti",
     roles: "Comms",
     image: "member-nopic.png",
@@ -109,6 +115,12 @@ var members = [
     name: "Peter Hale",
     roles: "Reaction Wheels",
     image: "member-nopic.png",
+  },
+  {
+    name: "Walker Holmquist",
+    roles: "Solar Panels Engineer",
+    image: "walker-holmquist.jpg",
+    link: "https://www.linkedin.com/in/walker-holmquist",
   },
   {
     name: "William Jackson",
@@ -140,6 +152,12 @@ var members = [
     link: "https://www.linkedin.com/in/aileen-laubach/",
   },
   {
+    name: "Bryan Mortimore",
+    roles: "Structures Lead",
+    image: "member-nopic.png",
+    link: "http://www.linkedin.com/in/bryan-mortimore",
+  },
+  {
     name: "Charles Nguyen",
     roles: "Reaction Wheels Member",
     image: "charles-nguyen.jpg",
@@ -165,6 +183,11 @@ var members = [
     roles: "Structures",
     image: "member-nopic.png",
     link: "https://www.linkedin.com/in/arathy-rengith-b9762b1b9/",
+  },
+  {
+    name: "Rohan Simon Shanthanu",
+    roles: "Star Tracker member",
+    image: "rohan-shanthanu.jpg",
   },
   {
     name: "Mitsuki Shimomura",
