@@ -56,7 +56,7 @@ var members = [
   },
   {
     name: "Marc Alwan",
-    roles: "Flight Computer",
+    roles: "Reaction Wheels and Magnetorquers",
     image: "member-nopic.png",
   },
   {
