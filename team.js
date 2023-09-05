@@ -47,7 +47,7 @@ var leadership = [
   },
   {
     name: "Alnis Smidchens",
-    roles: "President<br>Webmaster",
+    roles: "President",
     image: "alnis-smidchens.jpg",
     link: "https://www.alnis.dev"
   },
