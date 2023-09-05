@@ -83,11 +83,7 @@ var members = [
     roles: "Comms",
     image: "member-nopic.png",
   },
-  {
-    name: "Stephanie Geeson",
-    roles: "",
-    image: "stephanie-geeson.png",
-  },
+
   {
     name: "Marcial Romero Gomez",
     roles: "Propulsion",
@@ -178,12 +174,6 @@ var members = [
     image: "rohan-shanthanu.jpg",
   },
   {
-    name: "Aryan Sharma",
-    roles: "Software",
-    image: "aryan-sharma.jpg",
-    link: "https://www.linkedin.com/in/aryan-sharma-248b07246",
-  },
-  {
     name: "Mitsuki Shimomura",
     roles: "Propulsion",
     image: "mitsuki-shimomura.jpg",
@@ -241,6 +231,11 @@ var alumni = [
     name: "Hans Gaensbauer",
     roles: "",
     image: "hans-gaensbauer.png",
+  },
+  {
+    name: "Stephanie Geeson",
+    roles: "Vice President",
+    image: "stephanie-geeson.png",
   },
   {
     name: "Jevin Gu",
@@ -412,6 +407,12 @@ var alumni = [
     name: "Seth Reed",
     roles: "",
     image: "member-nopic.png",
+  },
+  {
+    name: "Aryan Sharma",
+    roles: "Treasurer, Software",
+    image: "aryan-sharma.jpg",
+    link: "https://www.linkedin.com/in/aryan-sharma-248b07246",
   },
   {
     name: "Simon Shimel",
