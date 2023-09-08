@@ -1,47 +1,59 @@
 var leadership = [
   {
-    name: "Stephanie Geeson",
-    roles: "Vice President",
-    image: "stephanie-geeson.png",
+    name: "Marc Alwan",
+    roles: "Treasurer<br>Advertising Lead<br>Reaction Wheels and Magnetorquers",
+    image: "member-nopic.png",
   },
   {
-    name: "Grace Kelly",
-    roles: "Secretary",
+    name: "Marcin Anforowicz",
+    roles: "Webmaster<br>Magnetorquers & Reaction Wheels",
+    image: "marcin-anforowicz.jpg",
+    link: "https://www.linkedin.com/in/marcin-anforowicz-8b79b7232/",
+  },
+  {
+    name: "Alexander Billesberger",
+    roles: "Mechanical Lead<br>Mechanical & Systems Engineer",
     image: "member-nopic.png",
-    link: "https://www.linkedin.com/mwlite/in/grace-kelly-0910ab226",
+    link: "https://www.linkedin.com/in/alexander-billesberger",
+  },
+  {
+    name: "Ellie Brosius",
+    roles: "Electrical Lead<br>Reaction Wheels",
+    image: "ellie-brosius.png",
+    link: "https://www.linkedin.com/in/eleanor-brosius-a36616225",
+  },
+  {
+    name: "Karen Haining",
+    roles: "Recruiter<br>Training Lead<br>Software Dev",
+    image: "member-nopic.png",
+  },
+  {
+    name: "Aileen Laubach",
+    roles: "Secretary<br>Structures",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/aileen-laubach/",
+  },
+  {
+    name: "Bryan Mortimore",
+    roles: "Chief Engineer<br>Structures Lead",
+    image: "member-nopic.png",
+    link: "http://www.linkedin.com/in/bryan-mortimore",
   },
   {
     name: "Tri Nguyen",
-    roles: "Star/Earth Tracker",
+    roles: "Project Manager<br>Systems Engineer<br>Star/Earth Tracker",
     image: "tri-nguyen.jpg",
     link: "https://www.linkedin.com/in/trivnguyen",
   },
   {
-    name: "Mark Polyakov",
-    roles: "Social Chair",
-    image: "mark-polyakov.png",
-    link: "https://markasoftware.com",
-  },
-  {
-    name: "Aryan Sharma",
-    roles: "Software, Treasurer",
-    image: "aryan-sharma.jpg",
-    link: "https://www.linkedin.com/in/aryan-sharma-248b07246",
-  },
-  {
     name: "Alnis Smidchens",
-    roles: "President<br>Webmaster",
+    roles: "President",
     image: "alnis-smidchens.jpg",
     link: "https://www.alnis.dev"
   },
   {
-    name: "Ryan Welch",
-    roles: "Treasurer",
-    image: "member-nopic.png",
-  },
-  {
     name: "Edward Zhang",
-    roles: "Recruiter<br>Star/Earth Tracker",
+    roles: "Vice President<br>Software Lead<br>Star/Earth Tracker",
     image: "edward-zhang.jpg",
     link: "https://www.linkedin.com/in/zeddie888/",
   },
@@ -55,33 +67,10 @@ var members = [
     link: "https://www.linkedin.com/in/srushti-adesara-3844b3191/",
   },
   {
-    name: "Marc Alwan",
-    roles: "Reaction Wheels and Magnetorquers",
-    image: "member-nopic.png",
-  },
-  {
     name: "Sara Anders-McDowell",
     roles: "Propulsion",
     image: "sara-anders-mcdowell.jpg",
     link: "https://www.linkedin.com/in/sara-anders/",
-  },
-  {
-    name: "Marcin Anforowicz",
-    roles: "Magnetorquers & Reaction Wheels Engineer",
-    image: "marcin-anforowicz.jpg",
-    link: "https://www.linkedin.com/in/marcin-anforowicz-8b79b7232/",
-  },
-  {
-    name: "Alexander Billesberger",
-    roles: "Mechanical & Systems Engineer",
-    image: "member-nopic.png",
-    link: "https://www.linkedin.com/in/alexander-billesberger",
-  },
-  {
-    name: "Ellie Brosius",
-    roles: "Reaction Wheels",
-    image: "ellie-brosius.png",
-    link: "https://www.linkedin.com/in/eleanor-brosius-a36616225",
   },
   {
     name: "Rushav Dash",
@@ -94,6 +83,7 @@ var members = [
     roles: "Comms",
     image: "member-nopic.png",
   },
+
   {
     name: "Marcial Romero Gomez",
     roles: "Propulsion",
@@ -105,11 +95,6 @@ var members = [
     roles: "Software",
     image: "evelyn-goodman.png",
     link: "https://www.linkedin.com/in/evelyngoodman/",
-  },
-  {
-    name: "Karen Haining",
-    roles: "Software Dev",
-    image: "member-nopic.png",
   },
   {
     name: "Peter Hale",
@@ -146,18 +131,6 @@ var members = [
     link: "https://www.linkedin.com/in/william-lacrampe/",
   },
   {
-    name: "Aileen Laubach",
-    roles: "Structures",
-    image: "member-nopic.png",
-    link: "https://www.linkedin.com/in/aileen-laubach/",
-  },
-  {
-    name: "Bryan Mortimore",
-    roles: "Structures Lead",
-    image: "member-nopic.png",
-    link: "http://www.linkedin.com/in/bryan-mortimore",
-  },
-  {
     name: "Charles Nguyen",
     roles: "Reaction Wheels Member",
     image: "charles-nguyen.jpg",
@@ -179,10 +152,21 @@ var members = [
     image: "member-nopic.png",
   },
   {
+    name: "Mark Polyakov",
+    roles: "Star Tracker",
+    image: "mark-polyakov.png",
+    link: "https://markasoftware.com",
+  },
+  {
     name: "Arathy Rengith",
     roles: "Structures",
     image: "member-nopic.png",
     link: "https://www.linkedin.com/in/arathy-rengith-b9762b1b9/",
+  },
+  {
+    name: "Ryan Welch",
+    roles: "Reaction Wheels Lead",
+    image: "member-nopic.png",
   },
   {
     name: "Rohan Simon Shanthanu",
@@ -249,6 +233,11 @@ var alumni = [
     image: "hans-gaensbauer.png",
   },
   {
+    name: "Stephanie Geeson",
+    roles: "Vice President",
+    image: "stephanie-geeson.png",
+  },
+  {
     name: "Jevin Gu",
     roles: "",
     image: "jevin-gu.png",
@@ -303,13 +292,11 @@ var alumni = [
     roles: "Mechanical member",
     image: "jacob-sawyer.jpg",
   },
-
   {
     name: "Austin Shaw",
     roles: "Solar panels",
     image: "member-nopic.png",
   },
-
   {
     name: "Sebastian Soetomo",
     roles: "Software",
@@ -320,7 +307,6 @@ var alumni = [
     roles: "Science",
     image: "lucas-swanson.jpg",
   },
-
   {
     name: "Vincent Wilson",
     roles: "Software",
@@ -335,6 +321,12 @@ var alumni = [
     name: "Logan Ince",
     roles: "",
     image: "logan-ince.png",
+  },
+  {
+    name: "Grace Kelly",
+    roles: "Secretary",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/mwlite/in/grace-kelly-0910ab226",
   },
   {
     name: "Haili Kuester",
@@ -396,7 +388,6 @@ var alumni = [
     roles: "Propulsion",
     image: "james-ott.png",
   },
-
   {
     name: "Kavel Rao",
     roles: "",
@@ -416,6 +407,12 @@ var alumni = [
     name: "Seth Reed",
     roles: "",
     image: "member-nopic.png",
+  },
+  {
+    name: "Aryan Sharma",
+    roles: "Treasurer, Software",
+    image: "aryan-sharma.jpg",
+    link: "https://www.linkedin.com/in/aryan-sharma-248b07246",
   },
   {
     name: "Simon Shimel",
