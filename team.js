@@ -34,7 +34,7 @@ var leadership = [
     link: "https://www.linkedin.com/in/aileen-laubach/",
   },
   {
-    name: "Avery Mortimore",
+    name: "Bryan Mortimore",
     roles: "Chief Engineer<br>Structures Lead",
     image: "member-nopic.png",
     link: "http://www.linkedin.com/in/bryan-mortimore",
