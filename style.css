@@ -185,21 +185,19 @@ h2 {
   margin-right: auto;
 }
 
-
-
-
-
-
 .footer {
   width: 100%;
   /* height: 450p x; */
-  height: 450px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background: rgb(27, 18, 45);
   background: linear-gradient(67deg, rgba(27, 18, 45, 1) 0%, rgba(36, 22, 61, 1) 35%, rgba(53, 33, 92, 1) 100%);
   overflow: hidden;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 70px;
 }
 
 .footer-element {
@@ -225,6 +223,11 @@ h2 {
 
 .footer-link:hover {
   color: #B7A57A;
+}
+
+.netlify-logo {
+  text-align: center;
+  margin-bottom: 50px
 }
 
 .inline-link {
