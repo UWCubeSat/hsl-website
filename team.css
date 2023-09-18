@@ -27,6 +27,7 @@
 }
 
 .team-member-name {
+    text-decoration: none;
     font-weight: 600;
     margin: 0px;
     margin-left: 12px;
@@ -38,5 +39,17 @@
     margin-left: 12px;
     margin-bottom: 6px;
     font-size: 15px;
+    text-decoration: none !important;
 }
 
+/* Remove blue underlines from links within .team-member-card */
+.team-member-card a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Remove blue underlines for link hover state (optional) */
+  .team-member-card a:hover {
+    text-decoration: none;
+  }
+  
