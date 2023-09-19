@@ -11,15 +11,15 @@
 .team-member-card {
     margin: 10px 5px;
     border-radius: 10px;
-    border-collapse: separate; 
     border-style: solid;
     border-width: 1px;
     border-color: #ccc;
-    perspective: 1px;
     overflow: hidden;
     box-shadow: 0px 5px 10px #00000009;
     background-color: #fff;
     max-width: 200px;
+    text-decoration: none;
+    color: black;
 }
 
 .team-member-photo {
