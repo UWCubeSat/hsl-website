@@ -464,13 +464,11 @@ var cards = {
 
 cards.forEach((member) =>
   document.write(
-    `<div class="team-member-card">
-      ${member["link"] ? `<a href="${member.link}" target="_blank" rel="noopener">` : ""}
+    `${member["link"] ? `<a href="${member.link}" target="_blank" rel="noopener"` : `<div`} class="team-member-card">
       <img width=200px height=200px class="team-member-photo" src="images/members/${member.image}">
-      ${(member["link"] ? `</a>` : "")}
       <p class="team-member-name">${member.name}</p>
       <p class="team-member-roles">${member.roles}</p>
-    </div>
+    ${(member["link"] ? `</a>` : `</div>`)}
     `
   )
 );
