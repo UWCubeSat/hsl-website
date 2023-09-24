@@ -31,12 +31,12 @@ h2 {
 
 
 .header {
-  height: 80px;
   width: 100%;
   background-color: #eee;
   margin-left: 0px;
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   position: sticky;
@@ -81,6 +81,10 @@ h2 {
   color: #B7A57A;
 }
 
+
+.header-cta-link {
+  margin-bottom: 15px;
+}
 
 .header-cta-link,
 .hero-cta-link,
@@ -264,6 +268,7 @@ a.anchor {
 @media (max-width: 600px) {
   .header {
     font-size: 16px;
+    position: static;
   }
 
   .header-logo {
