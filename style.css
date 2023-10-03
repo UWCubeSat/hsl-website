@@ -255,10 +255,18 @@ h2 {
 }
 
 a.anchor {
-  display: block;
-  position: relative;
-  top: -180px;
-  visibility: hidden;
+  color: transparent;
+  text-decoration: none;
+  margin-left: 10px;
+  scroll-margin-top: 100px;
+}
+
+:has(> a.anchor):hover a.anchor {
+  color: #aaaaaa;
+}
+
+a.anchor:hover {
+  text-decoration: underline;
 }
 
 :nth-child(1) { --nth-child: 1 }
