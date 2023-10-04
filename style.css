@@ -255,20 +255,26 @@ h2 {
 }
 
 a.anchor {
-  height: 48px;
-  display: inline-block;
-  margin-left: 10px;
+  padding-left: 10px;
   scroll-margin-top: 100px;
   visibility: hidden;
-  border-bottom: 3px solid transparent;
+  color: #B7A57A;
 }
 
 :has(> a.anchor):hover a.anchor {
   visibility: visible;
 }
 
-a.anchor:hover {
-  border-color: #B7A57A;
+a.anchor:hover span {
+  text-decoration: underline;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
 }
 
 :nth-child(1) { --nth-child: 1 }
