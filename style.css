@@ -256,9 +256,10 @@ h2 {
 
 a.anchor {
   padding-left: 10px;
+  padding-right: 10px;
   scroll-margin-top: 100px;
   visibility: hidden;
-  color: #B7A57A;
+  color: #666;
 }
 
 :has(> a.anchor):hover a.anchor {
@@ -266,10 +267,15 @@ a.anchor {
 }
 
 a.anchor:hover span {
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  color: #B7A57A;
 }
 
 .material-symbols-outlined {
+  /* this is a dirty hack that _will_ fall over at some point */
+  font-size: 40px!important;
+  line-height: 40px!important;
+  transform: translate(0px, 5px);
   font-variation-settings:
   'FILL' 0,
   'wght' 400,
