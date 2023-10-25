@@ -80,8 +80,9 @@ var members = [
   },
   {
     name: "Manasi Ganti",
-    roles: "Comms",
+    roles: "Star Tracker",
     image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/manasi-g-39ab30208/",
   },
 
   {
