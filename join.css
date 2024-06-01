@@ -63,3 +63,42 @@
     font-weight: 600;
     margin: 10px 20px 10px 20px;
 }
+
+
+.info-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+}
+
+.info-container>* {
+    max-width: 900px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.info-description {
+    max-width: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+h3 {
+    margin: 30px 20px 10px 20px;
+}
+
+
+h4 {
+    margin: 20px 20px 5px 20px;
+}
+
+p {
+    margin: 10px;
+}
+
+ul {
+    margin: 10px 20px;
+}
