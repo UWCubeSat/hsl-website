@@ -61,6 +61,128 @@ var leadership = [
 
 var members = [
   {
+    name: "Christopher Tan",
+    roles: "Software Engineer",
+    image: "member-nopic.png"
+  },
+  {
+    name: "Marcus Pompa",
+    roles: "",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/marcus-pompa-94856a1aa/"
+  },
+  {
+    name: "Ellison Dykes",
+    roles: "",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/ellisondykes"
+  },
+  {
+    name: "Alexander Lee",
+    roles: "Propulsion Engineer",
+    image: "member-nopic.png"
+  },
+  {
+    name: "Jeffery Zhang",
+    roles: "Reaction Wheels & Magnetorquers",
+    image: "jeffery-zhang.jpg",
+    link: "https://www.linkedin.com/in/jeffery-peiqi-zhang/"
+  },
+  {
+    name: "Benjamin Phillips",
+    roles: "Mechanical Member",
+    image: "ben-phillips.jpg",
+    link: "https://www.linkedin.com/in/benjamin-phillips11/"
+  },
+  {
+    name: "Aarjav Jain",
+    roles: "",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/aarjavjain200/"
+  },
+  {
+    name: "Caitlin Igel",
+    roles: "Science Member",
+    image: "caitlin-igel.jpg",
+    link: "https://www.linkedin.com/in/caitlin-igel-2118ab284/"
+  },
+  {
+    name: "Thomas Glass",
+    roles: "Electrical Member",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/thomaseglass"
+  },
+  {
+    name: "Hansel Lee",
+    roles: "",
+    image: "hansel-lee.jpg",
+    link: "https://www.linkedin.com/in/hansel-lee-6b2377226"
+  },
+  {
+    name: "Aaron McBride",
+    roles: "Software & Electronics",
+    image: "aaron-mcbride.jpg",
+    link: "https://www.aaron-mcbride.com"
+  },
+  {
+    name: "Prayug Sigdel",
+    roles: "",
+    image: "member-nopic.png",
+    link: "https://linkedin.com/in/prayug"
+  },
+  {
+    name: "Dawson Harris",
+    roles: "Software",
+    image: "dawson-harris.jpg",
+    link: "https://www.linkedin.com/in/dawsonharris/"
+  },
+  {
+    name: "Anders Choy",
+    roles: "Software Member",
+    image: "member-nopic.png",
+    link: "https://www.linkedin.com/in/anders-choy"
+  },
+  {
+    name: "Jeremy Chen",
+    roles: "Electrical Member",
+    image: "jeremy-chen.jpg",
+    link: "https://www.linkedin.com/in/jeremyc2/"
+  },
+  {
+    name: "Lydia Heupel",
+    roles: "",
+    image: "member-nopic.png"
+  },
+  {
+    name: "Matthew Shell",
+    roles: "Member",
+    image: "member-nopic.png",
+    link: "www.linkedin.com/in/matthew-shell-320205241"
+  },
+  {
+    name: "Ahad Ather",
+    roles: "Power/electronics Member",
+    image: "member-nopic.png"
+  },
+  {
+    name: "Kelby Steinmetz",
+    roles: "Software Engineer",
+    image: "kelby-steinmetz.jpg",
+    link: "https://www.linkedin.com/in/kelbys2/"
+  },
+  {
+    name: "Kevin Xiao",
+    roles: "Software",
+    image: "kevin-xiao.jpg",
+    link: "https://xckev.github.io/"
+  },
+  {
+    name: "Yehoshua Luna",
+    roles: "PHAT-3",
+    image: "yehoshua-luna.jpg",
+    link: "https://www.linkedin.com/in/yehoshua-luna"
+  },
+  {
     name: "Srushti Adesara",
     roles: "Star Tracker",
     image: "srushti-adesara.jpg",
@@ -104,9 +226,9 @@ var members = [
   },
   {
     name: "Walker Holmquist",
-    roles: "Solar Panels Engineer",
+    roles: "Mechanical Engineer",
     image: "walker-holmquist.jpg",
-    link: "https://www.linkedin.com/in/walker-holmquist",
+    link: "https://walkeraholmquist.wixsite.com/spacewalker",
   },
   {
     name: "William Jackson",
@@ -165,11 +287,6 @@ var members = [
     link: "https://www.linkedin.com/in/arathy-rengith-b9762b1b9/",
   },
   {
-    name: "Ryan Welch",
-    roles: "Reaction Wheels Lead",
-    image: "member-nopic.png",
-  },
-  {
     name: "Rohan Simon Shanthanu",
     roles: "Star Tracker member",
     image: "rohan-shanthanu.jpg",
@@ -188,6 +305,11 @@ var members = [
 ];
 
 var alumni = [
+  {
+    name: "Catherine Welch",
+    roles: "Reaction Wheels Lead",
+    image: "member-nopic.png",
+  },
   {
     name: "Allen Aby",
     roles: "Software Lead",
