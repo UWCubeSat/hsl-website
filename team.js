@@ -1,19 +1,19 @@
 var leadership = [
   {
     "name": "Marcin Anforowicz",
-    "roles": "Webmaster<br>Magnetorquers<br>PHAT-3",
+    "roles": "Former Webmaster<br>Magnetorquers<br>PHAT-3",
     "image": "marcin-anforowicz.jpg",
     "link": "https://manforowicz.github.io/"
   },
   {
     "name": "Alexander Billesberger",
-    "roles": "Mechanical Lead<br>Mechanical & Systems Engineer",
+    "roles": "Former Mechanical Lead<br>Mechanical & Systems Engineer",
     "image": "member-nopic.png",
     "link": "https://www.linkedin.com/in/alexander-billesberger"
   },
   {
     "name": "Ellie Brosius",
-    "roles": "Electrical Lead<br>Reaction Wheels",
+    "roles": "Former Electrical Lead<br>Reaction Wheels",
     "image": "ellie-brosius.png",
     "link": "https://www.linkedin.com/in/eleanor-brosius-a36616225"
   },
@@ -62,7 +62,7 @@ var members = [
   },
   {
     "name": "Marc Alwan",
-    "roles": "Treasurer<br>Advertising Lead<br>Reaction Wheels and Magnetorquers",
+    "roles": "Former Treasurer<br>Advertising Lead<br>Reaction Wheels and Magnetorquers",
     "image": "member-nopic.png"
   },
   {
@@ -131,7 +131,7 @@ var members = [
   },
   {
     "name": "Karen Haining",
-    "roles": "Recruiter<br>Training Lead<br>Software Dev",
+    "roles": "Former Recruiter<br>Former Training Lead<br>Software Dev",
     "image": "member-nopic.png"
   },
   {
@@ -193,7 +193,7 @@ var members = [
   },
   {
     "name": "Aileen Laubach",
-    "roles": "Secretary<br>Structures",
+    "roles": "Former Secretary<br>Structures",
     "image": "member-nopic.png",
     "link": "https://www.linkedin.com/in/aileen-laubach/"
   },
@@ -222,13 +222,13 @@ var members = [
   },
   {
     "name": "Bryan Mortimore",
-    "roles": "Chief Engineer<br>Structures Lead",
+    "roles": "Former Chief Engineer<br>Structures Lead",
     "image": "member-nopic.png",
     "link": "http://www.linkedin.com/in/bryan-mortimore"
   },
   {
     "name": "Tri Nguyen",
-    "roles": "Project Manager<br>Systems Engineer<br>Star/Earth Tracker",
+    "roles": "Former Project Manager<br>Former Systems Engineer<br>Star/Earth Tracker",
     "image": "tri-nguyen.jpg",
     "link": "https://www.linkedin.com/in/trivnguyen"
   },
@@ -280,7 +280,7 @@ var members = [
     "name": "Matthew Shell",
     "roles": "Member",
     "image": "member-nopic.png",
-    "link": "www.linkedin.com/in/matthew-shell-320205241"
+    "link": "https://www.linkedin.com/in/matthew-shell-320205241"
   },
   {
     "name": "Mitsuki Shimomura",
