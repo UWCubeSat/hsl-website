@@ -1,9 +1,9 @@
 var leadership = [
   {
     "name": "Marcin Anforowicz",
-    "roles": "Webmaster<br>Magnetorquers & Reaction Wheels",
+    "roles": "Webmaster<br>Magnetorquers<br>PHAT-3",
     "image": "marcin-anforowicz.jpg",
-    "link": "https://www.linkedin.com/in/marcin-anforowicz-8b79b7232/"
+    "link": "https://manforowicz.github.io/"
   },
   {
     "name": "Alexander Billesberger",
@@ -27,6 +27,17 @@ var leadership = [
     "name": "Cameron Lee",
     "roles": "Solar Panels Member, Lab Inventory Manager",
     "image": "cameron-lee.jpg"
+  },
+  {
+    "name": "Rassa Modares",
+    "roles": "Propulsion Lead",
+    "image": "rassa-modares.jpg",
+    "link": "https://www.linkedin.com/in/rassa-modares-008087214/"
+  },
+  {
+    "name": "Yoshiyuki Nakanishi",
+    "roles": "Solar Panels Lead<br>Systems Engineer",
+    "image": "yoshiyuki-nakanishi.jpg"
   },
   {
     "name": "Charles Nguyen",
@@ -76,6 +87,11 @@ var members = [
     "roles": "Software Member",
     "image": "member-nopic.png",
     "link": "https://www.linkedin.com/in/anders-choy"
+  },
+  {
+    "name": "Graham Christenson",
+    "roles": "Solar Panels",
+    "image": "graham-christenson.jpg"
   },
   {
     "name": "Rushav Dash",
@@ -525,6 +541,12 @@ var alumni = [
     "name": "Karman Singh",
     "roles": "Marketing/PR Lead",
     "image": "karman-singh.png"
+  },
+  {
+    "name": "Alnis Smidchens",
+    "roles": "President",
+    "image": "alnis-smidchens.jpg",
+    "link": "https://www.alnis.dev"
   },
   {
     "name": "Andrew Smith",
