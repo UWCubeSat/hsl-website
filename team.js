@@ -24,6 +24,11 @@ var leadership = [
     "link": "https://www.linkedin.com/in/manasi-g-39ab30208/"
   },
   {
+    "name": "Jasmine Huang",
+    "roles": "Board member",
+    "image": "member-nopic.png"
+  },
+  {
     "name": "Cameron Lee",
     "roles": "Solar Panels Member, Lab Inventory Manager",
     "image": "cameron-lee.jpg"
