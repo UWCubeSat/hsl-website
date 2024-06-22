@@ -30,7 +30,7 @@ var leadership = [
   },
   {
     "name": "Cameron Lee",
-    "roles": "Solar Panels Member, Lab Inventory Manager",
+    "roles": "Solar Panels Member<br>Lab Inventory Manager",
     "image": "cameron-lee.jpg"
   },
   {
@@ -107,7 +107,7 @@ var members = [
   {
     "name": "Ellison Dykes",
     "roles": "",
-    "image": "member-nopic.png",
+    "image": "ellison-dykes.jpg",
     "link": "https://www.linkedin.com/in/ellisondykes"
   },
   {
