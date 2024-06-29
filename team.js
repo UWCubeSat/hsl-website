@@ -1,55 +1,54 @@
 var leadership = [
   {
-    "name": "Marc Alwan",
-    "roles": "Treasurer<br>Advertising Lead<br>Reaction Wheels and Magnetorquers",
-    "image": "member-nopic.png"
-  },
-  {
     "name": "Marcin Anforowicz",
-    "roles": "Webmaster<br>Magnetorquers & Reaction Wheels",
+    "roles": "Former Webmaster<br>Magnetorquers<br>PHAT-3",
     "image": "marcin-anforowicz.jpg",
-    "link": "https://www.linkedin.com/in/marcin-anforowicz-8b79b7232/"
+    "link": "https://manforowicz.github.io/"
   },
   {
     "name": "Alexander Billesberger",
-    "roles": "Mechanical Lead<br>Mechanical & Systems Engineer",
+    "roles": "Former Mechanical Lead<br>Mechanical & Systems Engineer",
     "image": "member-nopic.png",
     "link": "https://www.linkedin.com/in/alexander-billesberger"
   },
   {
     "name": "Ellie Brosius",
-    "roles": "Electrical Lead<br>Reaction Wheels",
+    "roles": "Former Electrical Lead<br>Reaction Wheels",
     "image": "ellie-brosius.png",
     "link": "https://www.linkedin.com/in/eleanor-brosius-a36616225"
   },
   {
-    "name": "Karen Haining",
-    "roles": "Recruiter<br>Training Lead<br>Software Dev",
+    "name": "Manasi Ganti",
+    "roles": "Star Tracker",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/manasi-g-39ab30208/"
+  },
+  {
+    "name": "Jasmine Huang",
+    "roles": "Board member",
     "image": "member-nopic.png"
   },
   {
-    "name": "Aileen Laubach",
-    "roles": "Secretary<br>Structures",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/aileen-laubach/"
+    "name": "Cameron Lee",
+    "roles": "Solar Panels Member<br>Lab Inventory Manager",
+    "image": "cameron-lee.jpg"
   },
   {
-    "name": "Bryan Mortimore",
-    "roles": "Chief Engineer<br>Structures Lead",
-    "image": "member-nopic.png",
-    "link": "http://www.linkedin.com/in/bryan-mortimore"
+    "name": "Rassa Modares",
+    "roles": "Propulsion Lead",
+    "image": "rassa-modares.jpg",
+    "link": "https://www.linkedin.com/in/rassa-modares-008087214/"
   },
   {
-    "name": "Tri Nguyen",
-    "roles": "Project Manager<br>Systems Engineer<br>Star/Earth Tracker",
-    "image": "tri-nguyen.jpg",
-    "link": "https://www.linkedin.com/in/trivnguyen"
+    "name": "Yoshiyuki Nakanishi",
+    "roles": "Solar Panels Lead<br>Systems Engineer",
+    "image": "yoshiyuki-nakanishi.jpg"
   },
   {
-    "name": "Alnis Smidchens",
-    "roles": "President",
-    "image": "alnis-smidchens.jpg",
-    "link": "https://www.alnis.dev"
+    "name": "Charles Nguyen",
+    "roles": "Reaction Wheels Member",
+    "image": "charles-nguyen.jpg",
+    "link": "https://www.linkedin.com/in/charles-d-nguyen/"
   },
   {
     "name": "Edward Zhang",
@@ -65,6 +64,11 @@ var members = [
     "roles": "Star Tracker",
     "image": "srushti-adesara.jpg",
     "link": "https://www.linkedin.com/in/srushti-adesara-3844b3191/"
+  },
+  {
+    "name": "Marc Alwan",
+    "roles": "Former Treasurer<br>Advertising Lead<br>Reaction Wheels and Magnetorquers",
+    "image": "member-nopic.png"
   },
   {
     "name": "Sara Anders-McDowell",
@@ -90,6 +94,11 @@ var members = [
     "link": "https://www.linkedin.com/in/anders-choy"
   },
   {
+    "name": "Graham Christenson",
+    "roles": "Solar Panels",
+    "image": "graham-christenson.jpg"
+  },
+  {
     "name": "Rushav Dash",
     "roles": "Power Distribution Member",
     "image": "member-nopic.png",
@@ -98,14 +107,8 @@ var members = [
   {
     "name": "Ellison Dykes",
     "roles": "",
-    "image": "member-nopic.png",
+    "image": "ellison-dykes.jpg",
     "link": "https://www.linkedin.com/in/ellisondykes"
-  },
-  {
-    "name": "Manasi Ganti",
-    "roles": "Star Tracker",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/manasi-g-39ab30208/"
   },
   {
     "name": "Thomas Glass",
@@ -124,6 +127,17 @@ var members = [
     "roles": "Software",
     "image": "evelyn-goodman.png",
     "link": "https://www.linkedin.com/in/evelyngoodman/"
+  },
+  {
+    "name": "Hayden Gosch",
+    "roles": "Magnetorquers Engineer",
+    "image": "hayden-gosch.jpg",
+    "link": "https://www.linkedin.com/in/haydengosch/"
+  },
+  {
+    "name": "Karen Haining",
+    "roles": "Former Recruiter<br>Former Training Lead<br>Software Dev",
+    "image": "member-nopic.png"
   },
   {
     "name": "Peter Hale",
@@ -183,6 +197,12 @@ var members = [
     "link": "https://www.linkedin.com/in/william-lacrampe/"
   },
   {
+    "name": "Aileen Laubach",
+    "roles": "Former Secretary<br>Structures",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/aileen-laubach/"
+  },
+  {
     "name": "Alexander Lee",
     "roles": "Propulsion Engineer",
     "image": "member-nopic.png"
@@ -206,10 +226,16 @@ var members = [
     "link": "https://www.aaron-mcbride.com"
   },
   {
-    "name": "Charles Nguyen",
-    "roles": "Reaction Wheels Member",
-    "image": "charles-nguyen.jpg",
-    "link": "https://www.linkedin.com/in/charles-d-nguyen/"
+    "name": "Bryan Mortimore",
+    "roles": "Former Chief Engineer<br>Structures Lead",
+    "image": "member-nopic.png",
+    "link": "http://www.linkedin.com/in/bryan-mortimore"
+  },
+  {
+    "name": "Tri Nguyen",
+    "roles": "Former Project Manager<br>Former Systems Engineer<br>Star/Earth Tracker",
+    "image": "tri-nguyen.jpg",
+    "link": "https://www.linkedin.com/in/trivnguyen"
   },
   {
     "name": "Ronan Nopp",
@@ -259,7 +285,7 @@ var members = [
     "name": "Matthew Shell",
     "roles": "Member",
     "image": "member-nopic.png",
-    "link": "www.linkedin.com/in/matthew-shell-320205241"
+    "link": "https://www.linkedin.com/in/matthew-shell-320205241"
   },
   {
     "name": "Mitsuki Shimomura",
@@ -299,7 +325,7 @@ var members = [
     "name": "Jeffery Zhang",
     "roles": "Reaction Wheels & Magnetorquers",
     "image": "jeffery-zhang.jpg",
-    "link": "https://www.linkedin.com/in/jeffery-peiqi-zhang/"
+    "link": "https://www.linkedin.com/in/jeffery-zhang-914280256/"
   }
 ];
 
@@ -520,6 +546,12 @@ var alumni = [
     "name": "Karman Singh",
     "roles": "Marketing/PR Lead",
     "image": "karman-singh.png"
+  },
+  {
+    "name": "Alnis Smidchens",
+    "roles": "President",
+    "image": "alnis-smidchens.jpg",
+    "link": "https://www.alnis.dev"
   },
   {
     "name": "Andrew Smith",
