@@ -20,6 +20,11 @@ var sponsors = [
     image: 'images/sponsors/200/amsat-logo-200.png',
   },
   {
+    name: 'Apex',
+    url: 'https://www.apexspace.com/',
+    image: 'images/sponsors/200/apex-logo-200.png'
+  },
+  {
     name: 'Valispace',
     url: 'https://www.valispace.com/',
     image: 'images/sponsors/200/valispace-icon-200.png',
