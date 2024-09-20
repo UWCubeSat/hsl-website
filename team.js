@@ -163,7 +163,7 @@ var members = [
   },
   {
     "name": "Caitlin Igel",
-    "roles": "Science Member",
+    "roles": "HuskySat-3 Orbit Plan",
     "image": "caitlin-igel.jpg",
     "link": "https://www.linkedin.com/in/caitlin-igel-2118ab284/"
   },
