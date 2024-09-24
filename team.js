@@ -1,58 +1,70 @@
 var leadership = [
   {
+    "name": "Marc Alwan",
+    "roles": "Treasurer<br>Former Advertising Lead<br>Reaction Wheels and Magnetorquers",
+    "image": "member-nopic.png"
+  },
+  {
     "name": "Marcin Anforowicz",
-    "roles": "Former Webmaster<br>Magnetorquers<br>PHAT-3",
+    "roles": "Webmaster<br>Magnetorquers<br>PHAT-3",
     "image": "marcin-anforowicz.jpg",
     "link": "https://manforowicz.github.io/"
   },
   {
-    "name": "Alexander Billesberger",
-    "roles": "Former Mechanical Lead<br>Mechanical & Systems Engineer",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/alexander-billesberger"
-  },
-  {
     "name": "Ellie Brosius",
-    "roles": "Former Electrical Lead<br>Reaction Wheels",
+    "roles": "President<br>Former Electrical Lead<br>Reaction Wheels",
     "image": "ellie-brosius.png",
     "link": "https://www.linkedin.com/in/eleanor-brosius-a36616225"
   },
   {
-    "name": "Manasi Ganti",
-    "roles": "Star Tracker",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/manasi-g-39ab30208/"
-  },
-  {
-    "name": "Jasmine Huang",
-    "roles": "Board member",
-    "image": "member-nopic.png"
+    "name": "Victor Cheenaruenthong",
+    "roles": "Outreach officer<br>Lab coordinator<br>Propulsion Member",
+    "image": "victor-cheenaruenthong.jpg",
+    "link": "https://www.linkedin.com/in/victorch/"
   },
   {
     "name": "Cameron Lee",
-    "roles": "Solar Panels Member<br>Lab Inventory Manager",
+    "roles": "President<br>Lab Coordinator<br>Solar Panels Member",
     "image": "cameron-lee.jpg"
   },
   {
     "name": "Rassa Modares",
-    "roles": "Propulsion Lead",
+    "roles": "President<br>Outreach<br>Propulsion Lead",
     "image": "rassa-modares.jpg",
     "link": "https://www.linkedin.com/in/rassa-modares-008087214/"
   },
   {
+    "name": "Avery Mortimore",
+    "roles": "Secretary<br>Former Chief Engineer<br>Structures Lead",
+    "image": "member-nopic.png",
+    "link": "http://www.linkedin.com/in/bryan-mortimore"
+  },
+  {
     "name": "Yoshiyuki Nakanishi",
-    "roles": "Solar Panels Lead<br>Systems Engineer",
+    "roles": "Solar Panels Lead<br>Former Systems Engineer",
     "image": "yoshiyuki-nakanishi.jpg"
   },
   {
     "name": "Charles Nguyen",
-    "roles": "Reaction Wheels Member",
+    "roles": "Treasurer<br>Reaction Wheels Member",
     "image": "charles-nguyen.jpg",
     "link": "https://www.linkedin.com/in/charles-d-nguyen/"
   },
   {
+    "name": "Tri Nguyen",
+    "roles": "Earth Tracker Lead<br>Former Project Manager and Systems Engineer<br>Earth Tracker",
+    "image": "tri-nguyen.jpg",
+    "link": "https://www.linkedin.com/in/trivnguyen"
+  },
+  {
+    "name": "Kevin Xiao",
+    "roles": "Public Relations<br>Software",
+    "image": "kevin-xiao.jpg",
+    "link": "https://xckev.github.io/"
+  },
+  {
     "name": "Edward Zhang",
-    "roles": "Vice President<br>Software Lead<br>Star/Earth Tracker",
+    "roles": "Outreach<br>Former Vice President<br>Software Lead<br>Star/Earth Tracker",
     "image": "edward-zhang.jpg",
     "link": "https://www.linkedin.com/in/zeddie888/"
   }
@@ -60,26 +72,15 @@ var leadership = [
 
 var members = [
   {
-    "name": "Srushti Adesara",
-    "roles": "Star Tracker",
-    "image": "srushti-adesara.jpg",
-    "link": "https://www.linkedin.com/in/srushti-adesara-3844b3191/"
-  },
-  {
-    "name": "Marc Alwan",
-    "roles": "Former Treasurer<br>Advertising Lead<br>Reaction Wheels and Magnetorquers",
-    "image": "member-nopic.png"
-  },
-  {
-    "name": "Sara Anders-McDowell",
-    "roles": "Propulsion",
-    "image": "sara-anders-mcdowell.jpg",
-    "link": "https://www.linkedin.com/in/sara-anders/"
-  },
-  {
     "name": "Ahad Ather",
     "roles": "Power/electronics Member",
     "image": "member-nopic.png"
+  },
+  {
+    "name": "Alexander Billesberger",
+    "roles": "Former Mechanical Lead<br>Mechanical & Systems Engineer",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/alexander-billesberger"
   },
   {
     "name": "Jeremy Chen",
@@ -99,34 +100,22 @@ var members = [
     "image": "graham-christenson.jpg"
   },
   {
-    "name": "Rushav Dash",
-    "roles": "Power Distribution Member",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/rushav-dash/"
-  },
-  {
     "name": "Ellison Dykes",
     "roles": "",
     "image": "ellison-dykes.jpg",
     "link": "https://www.linkedin.com/in/ellisondykes"
   },
   {
+    "name": "Manasi Ganti",
+    "roles": "Star Tracker",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/manasi-g-39ab30208/"
+  },
+  {
     "name": "Thomas Glass",
     "roles": "Electrical Member",
     "image": "member-nopic.png",
     "link": "https://www.linkedin.com/in/thomaseglass"
-  },
-  {
-    "name": "Marcial Romero Gomez",
-    "roles": "Propulsion",
-    "image": "marcial-gomez.jpeg",
-    "link": "https://www.linkedin.com/in/marcial-romero-gomez-574ab5249"
-  },
-  {
-    "name": "Evelyn Goodman",
-    "roles": "Software",
-    "image": "evelyn-goodman.png",
-    "link": "https://www.linkedin.com/in/evelyngoodman/"
   },
   {
     "name": "Hayden Gosch",
@@ -137,11 +126,6 @@ var members = [
   {
     "name": "Karen Haining",
     "roles": "Former Recruiter<br>Former Training Lead<br>Software Dev",
-    "image": "member-nopic.png"
-  },
-  {
-    "name": "Peter Hale",
-    "roles": "Reaction Wheels",
     "image": "member-nopic.png"
   },
   {
@@ -156,10 +140,9 @@ var members = [
     "image": "member-nopic.png"
   },
   {
-    "name": "Walker Holmquist",
-    "roles": "Mechanical Engineer",
-    "image": "walker-holmquist.jpg",
-    "link": "https://walkeraholmquist.wixsite.com/spacewalker"
+    "name": "Jasmine Huang",
+    "roles": "Former Board Member",
+    "image": "member-nopic.png"
   },
   {
     "name": "Caitlin Igel",
@@ -173,30 +156,6 @@ var members = [
     "image": "member-nopic.png"
   },
   {
-    "name": "Aarjav Jain",
-    "roles": "",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/aarjavjain200/"
-  },
-  {
-    "name": "Brad Keen",
-    "roles": "Propulsion",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/brad-keen/"
-  },
-  {
-    "name": "Semin Kim",
-    "roles": "Earth Tracker Software",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/se-min-kim-308406209/"
-  },
-  {
-    "name": "William Lacrampe",
-    "roles": "Propulsion, Structures",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/william-lacrampe/"
-  },
-  {
     "name": "Aileen Laubach",
     "roles": "Former Secretary<br>Structures",
     "image": "member-nopic.png",
@@ -206,12 +165,6 @@ var members = [
     "name": "Alexander Lee",
     "roles": "Propulsion Engineer",
     "image": "member-nopic.png"
-  },
-  {
-    "name": "Hansel Lee",
-    "roles": "",
-    "image": "hansel-lee.jpg",
-    "link": "https://www.linkedin.com/in/hansel-lee-6b2377226"
   },
   {
     "name": "Yehoshua Luna",
@@ -226,99 +179,14 @@ var members = [
     "link": "https://www.aaron-mcbride.com"
   },
   {
-    "name": "Bryan Mortimore",
-    "roles": "Former Chief Engineer<br>Structures Lead",
-    "image": "member-nopic.png",
-    "link": "http://www.linkedin.com/in/bryan-mortimore"
-  },
-  {
-    "name": "Tri Nguyen",
-    "roles": "Former Project Manager<br>Former Systems Engineer<br>Star/Earth Tracker",
-    "image": "tri-nguyen.jpg",
-    "link": "https://www.linkedin.com/in/trivnguyen"
-  },
-  {
-    "name": "Ronan Nopp",
-    "roles": "",
-    "image": "member-nopic.png"
-  },
-  {
-    "name": "Adam Olsen",
-    "roles": "Mechanical",
-    "image": "adam-olsen.jpg"
-  },
-  {
-    "name": "Karuna Petwe",
-    "roles": "Earth Tracker",
-    "image": "member-nopic.png"
-  },
-  {
     "name": "Benjamin Phillips",
     "roles": "Mechanical Member",
     "image": "ben-phillips.jpg",
     "link": "https://www.linkedin.com/in/benjamin-phillips11/"
   },
   {
-    "name": "Mark Polyakov",
-    "roles": "Star Tracker",
-    "image": "mark-polyakov.png",
-    "link": "https://markasoftware.com"
-  },
-  {
-    "name": "Marcus Pompa",
-    "roles": "",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/marcus-pompa-94856a1aa/"
-  },
-  {
-    "name": "Arathy Rengith",
-    "roles": "Structures",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/arathy-rengith-b9762b1b9/"
-  },
-  {
-    "name": "Rohan Simon Shanthanu",
-    "roles": "Star Tracker member",
-    "image": "rohan-shanthanu.jpg"
-  },
-  {
-    "name": "Matthew Shell",
-    "roles": "Member",
-    "image": "member-nopic.png",
-    "link": "https://www.linkedin.com/in/matthew-shell-320205241"
-  },
-  {
-    "name": "Mitsuki Shimomura",
-    "roles": "Propulsion",
-    "image": "mitsuki-shimomura.jpg",
-    "link": "https://www.linkedin.com/in/mitsuki-shimomura-a891481b2/"
-  },
-  {
-    "name": "Prayug Sigdel",
-    "roles": "",
-    "image": "member-nopic.png",
-    "link": "https://linkedin.com/in/prayug"
-  },
-  {
-    "name": "Kelby Steinmetz",
-    "roles": "Software Engineer",
-    "image": "kelby-steinmetz.jpg",
-    "link": "https://www.linkedin.com/in/kelbys2/"
-  },
-  {
     "name": "Christopher Tan",
     "roles": "Software Engineer",
-    "image": "member-nopic.png"
-  },
-  {
-    "name": "Kevin Xiao",
-    "roles": "Software",
-    "image": "kevin-xiao.jpg",
-    "link": "https://xckev.github.io/"
-  },
-  {
-    "name": "Brandon Yang",
-    "roles": "Earth Tracker",
     "image": "member-nopic.png"
   },
   {
@@ -331,9 +199,26 @@ var members = [
 
 var alumni = [
   {
+    "name": "Hangliang Ren (Harry)",
+    "roles": "Software",
+    "image": "member-nopic.png"
+  },
+  {
     "name": "Allen Aby",
     "roles": "Software Lead",
     "image": "allen-aby.png"
+  },
+  {
+    "name": "Srushti Adesara",
+    "roles": "Star Tracker",
+    "image": "srushti-adesara.jpg",
+    "link": "https://www.linkedin.com/in/srushti-adesara-3844b3191/"
+  },
+  {
+    "name": "Sara Anders-McDowell",
+    "roles": "Propulsion",
+    "image": "sara-anders-mcdowell.jpg",
+    "link": "https://www.linkedin.com/in/sara-anders/"
   },
   {
     "name": "Andrew Buckingham",
@@ -361,6 +246,12 @@ var alumni = [
     "image": "jade-cutter.png"
   },
   {
+    "name": "Rushav Dash",
+    "roles": "Power Distribution Member",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/rushav-dash/"
+  },
+  {
     "name": "Sebastian Davis",
     "roles": "",
     "image": "sebastian-davis.png"
@@ -386,6 +277,18 @@ var alumni = [
     "image": "stephanie-geeson.png"
   },
   {
+    "name": "Marcial Romero Gomez",
+    "roles": "Propulsion",
+    "image": "marcial-gomez.jpeg",
+    "link": "https://www.linkedin.com/in/marcial-romero-gomez-574ab5249"
+  },
+  {
+    "name": "Evelyn Goodman",
+    "roles": "Software",
+    "image": "evelyn-goodman.png",
+    "link": "https://www.linkedin.com/in/evelyngoodman/"
+  },
+  {
     "name": "Jevin Gu",
     "roles": "",
     "image": "jevin-gu.png"
@@ -393,6 +296,11 @@ var alumni = [
   {
     "name": "Rahul Gupta",
     "roles": "",
+    "image": "member-nopic.png"
+  },
+  {
+    "name": "Peter Hale",
+    "roles": "Reaction Wheels",
     "image": "member-nopic.png"
   },
   {
@@ -406,6 +314,12 @@ var alumni = [
     "image": "member-nopic.png"
   },
   {
+    "name": "Walker Holmquist",
+    "roles": "Mechanical Engineer",
+    "image": "walker-holmquist.jpg",
+    "link": "https://walkeraholmquist.wixsite.com/spacewalker"
+  },
+  {
     "name": "Joseph Iannone",
     "roles": "Propulsion",
     "image": "joseph-iannone.jpg"
@@ -416,15 +330,45 @@ var alumni = [
     "image": "logan-ince.png"
   },
   {
+    "name": "Aarjav Jain",
+    "roles": "",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/aarjavjain200/"
+  },
+  {
+    "name": "Brad Keen",
+    "roles": "Propulsion",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/brad-keen/"
+  },
+  {
     "name": "Grace Kelly",
     "roles": "Secretary",
     "image": "member-nopic.png",
     "link": "https://www.linkedin.com/mwlite/in/grace-kelly-0910ab226"
   },
   {
+    "name": "Semin Kim",
+    "roles": "Earth Tracker Software",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/se-min-kim-308406209/"
+  },
+  {
     "name": "Haili Kuester",
     "roles": "",
     "image": "member-nopic.png"
+  },
+  {
+    "name": "William Lacrampe",
+    "roles": "Propulsion, Structures",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/william-lacrampe/"
+  },
+  {
+    "name": "Hansel Lee",
+    "roles": "",
+    "image": "hansel-lee.jpg",
+    "link": "https://www.linkedin.com/in/hansel-lee-6b2377226"
   },
   {
     "name": "Marshall Lee",
@@ -492,9 +436,36 @@ var alumni = [
     "image": "walid-mouss.png"
   },
   {
+    "name": "Ronan Nopp",
+    "roles": "",
+    "image": "member-nopic.png"
+  },
+  {
+    "name": "Adam Olsen",
+    "roles": "Mechanical",
+    "image": "adam-olsen.jpg"
+  },
+  {
     "name": "James Ott",
     "roles": "Propulsion",
     "image": "james-ott.png"
+  },
+  {
+    "name": "Karuna Petwe",
+    "roles": "Earth Tracker",
+    "image": "member-nopic.png"
+  },
+  {
+    "name": "Mark Polyakov",
+    "roles": "Star Tracker",
+    "image": "mark-polyakov.png",
+    "link": "https://markasoftware.com"
+  },
+  {
+    "name": "Marcus Pompa",
+    "roles": "",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/marcus-pompa-94856a1aa/"
   },
   {
     "name": "Kavel Rao",
@@ -517,14 +488,20 @@ var alumni = [
     "image": "member-nopic.png"
   },
   {
-    "name": "Hangliang Ren (Harry)",
-    "roles": "Software",
-    "image": "member-nopic.png"
+    "name": "Arathy Rengith",
+    "roles": "Structures",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/arathy-rengith-b9762b1b9/"
   },
   {
     "name": "Jacob Sawyer",
     "roles": "Mechanical member",
     "image": "jacob-sawyer.jpg"
+  },
+  {
+    "name": "Rohan Simon Shanthanu",
+    "roles": "Star Tracker member",
+    "image": "rohan-shanthanu.jpg"
   },
   {
     "name": "Aryan Sharma",
@@ -538,9 +515,27 @@ var alumni = [
     "image": "member-nopic.png"
   },
   {
+    "name": "Matthew Shell",
+    "roles": "Member",
+    "image": "member-nopic.png",
+    "link": "https://www.linkedin.com/in/matthew-shell-320205241"
+  },
+  {
     "name": "Simon Shimel",
     "roles": "",
     "image": "simon-shimel.png"
+  },
+  {
+    "name": "Mitsuki Shimomura",
+    "roles": "Propulsion",
+    "image": "mitsuki-shimomura.jpg",
+    "link": "https://www.linkedin.com/in/mitsuki-shimomura-a891481b2/"
+  },
+  {
+    "name": "Prayug Sigdel",
+    "roles": "",
+    "image": "member-nopic.png",
+    "link": "https://linkedin.com/in/prayug"
   },
   {
     "name": "Karman Singh",
@@ -562,6 +557,12 @@ var alumni = [
     "name": "Sebastian Soetomo",
     "roles": "Software",
     "image": "member-nopic.png"
+  },
+  {
+    "name": "Kelby Steinmetz",
+    "roles": "Software Engineer",
+    "image": "kelby-steinmetz.jpg",
+    "link": "https://www.linkedin.com/in/kelbys2/"
   },
   {
     "name": "Jeff Sternberg",
@@ -597,6 +598,11 @@ var alumni = [
     "name": "Vincent Wilson",
     "roles": "Software",
     "image": "vincent-wilson.jpg"
+  },
+  {
+    "name": "Brandon Yang",
+    "roles": "Earth Tracker",
+    "image": "member-nopic.png"
   },
   {
     "name": "Kenneth Yang",

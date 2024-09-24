@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # A data-management utility to sort a JSON of members by last name, and print the result.
 
 import yaml # YAML is a superset of JSON, and more forgiving to errors
