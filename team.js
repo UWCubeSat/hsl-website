@@ -17,6 +17,12 @@ var leadership = [
     "link": "https://www.linkedin.com/in/eleanor-brosius-a36616225"
   },
   {
+    "name": "Victor Cheenaruenthong",
+    "roles": "Outreach officer<br>Lab coordinator<br>Propulsion Member",
+    "image": "victor-cheenaruenthong.jpg",
+    "link": "https://www.linkedin.com/in/victorch/"
+  },
+  {
     "name": "Cameron Lee",
     "roles": "President<br>Lab Coordinator<br>Solar Panels Member",
     "image": "cameron-lee.jpg"
@@ -65,7 +71,6 @@ var leadership = [
 ];
 
 var members = [
-
   {
     "name": "Ahad Ather",
     "roles": "Power/electronics Member",
@@ -76,12 +81,6 @@ var members = [
     "roles": "Former Mechanical Lead<br>Mechanical & Systems Engineer",
     "image": "member-nopic.png",
     "link": "https://www.linkedin.com/in/alexander-billesberger"
-  },
-  {
-    "name": "Victor Cheenaruenthong",
-    "roles": "Outreach officer<br>Lab coordinator<br>Propulsion Member",
-    "image": "victor-cheenaruenthong.jpg",
-    "link": "https://www.linkedin.com/in/victorch/"
   },
   {
     "name": "Jeremy Chen",
