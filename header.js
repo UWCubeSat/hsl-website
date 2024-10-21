@@ -6,6 +6,7 @@ document.write(
     <a class="header-link" href="missions.html">MISSIONS</a>
     <a class="header-link" href="https://newsletter.huskysat.org">NEWSLETTER</a>
     <a class="header-link" href="sponsors.html">SPONSORS</a>
+    <a class="header-link" href="events.html">EVENTS</a>
     <a class="header-cta-link" href="join.html">JOIN US</a>
     <button class="header-hamburger-button" onclick="document.querySelector('.header').classList.toggle('open')">\u2630</button>
 </div>
