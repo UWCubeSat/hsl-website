@@ -360,6 +360,7 @@ a.anchor:hover span {
   text-decoration: none;
   transition: 150ms ease-out box-shadow, 150ms ease-out color;
   display: block;
+  color: #000;
 }
 
 a.card:hover {
@@ -388,9 +389,11 @@ a.card:hover {
   margin: 0px;
   font-size: 24px;
   line-height: 45px;
+  color: #333;
 }
 
 .card-title {
+  color: #333;
   text-align: center;
   font-weight: 600;
   margin: 0px;
@@ -408,7 +411,7 @@ a.card:hover {
 .card-text {
   margin: 0.5rem;
   color: #333;
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 .text-container {

@@ -19,7 +19,8 @@
 
 
 .status-detail-container {
-    font-size: 0.9em;
+    color: #333;
+    font-size: 0.8em;
     position: relative;
     border-top: #ccc solid 1px;
     text-align: left;
