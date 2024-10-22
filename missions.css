@@ -1,5 +1,5 @@
 .mission-description {
-    max-width: 40em;
+    max-width: 34em;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -12,13 +12,14 @@
 .status-name {
     font-weight: 600;
     margin: 0px;
-    font-size: 16px;
+    font-size: 0.9em;
     line-height: 37px;
     text-align: center;
 }
 
 
 .status-detail-container {
+    font-size: 0.9em;
     position: relative;
     border-top: #ccc solid 1px;
     text-align: left;
