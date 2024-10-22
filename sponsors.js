@@ -64,11 +64,11 @@ var sponsors = [
 
 sponsors.forEach(sponsor => document.write(
   `
-<a class="sponsor-card" href="${sponsor.url}">
-    <div class="sponsor-image-container shadow">
-        <img class="sponsor-image" src="${sponsor.image}">
+<a class="card" style="width: 200px;" href="${sponsor.url}">
+    <div class="card-img-container">
+        <img class="card-img" src="${sponsor.image}">
     </div>
-    <p class="sponsor-name">${sponsor.name}</p>
+    <p class="card-title">${sponsor.name}</p>
 </a>
 `
 ));
