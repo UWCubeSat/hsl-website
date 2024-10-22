@@ -6,7 +6,7 @@ document.write(
 <meta name="author" content="Husky Satellite Lab">
 <meta name="keywords" content="CubeSat, undergraduate, research, team, science, orbit, spacecraft, launch">
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,600;0,700;1,300&display=swap" rel="stylesheet">

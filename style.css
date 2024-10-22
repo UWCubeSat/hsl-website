@@ -16,7 +16,9 @@ body {
   min-height: 100vh;
 }
 
-/* Makes main expand in the body flexbox, to always push footer down. */
+/* Makes main expand in the body flexbox,
+to push the footer down
+even when there is little content. */
 main {
   flex: 1;
 }
@@ -37,18 +39,24 @@ h2 {
   color: #333;
 }
 
+/* Simple block for holding paragraphs. */
+.text-block {
+  margin: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  max-width: 50rem;
+}
+
 /* HEADER */
 
 #header {
   height: 80px;
   width: 100%;
-  background-color: #eee;
   display: flex;
   align-items: center;
   position: sticky;
   top: 0;
   transition: background-color 200ms, box-shadow 200ms;
-  border-bottom: 1px solid #eee;
   z-index: 10;
   overflow: hidden;
 }
@@ -90,7 +98,7 @@ h2 {
 }
 
 @media (max-width: 600px) {
-  
+
   #header .header-link {
     margin: 20px 20px
   }
@@ -100,11 +108,11 @@ h2 {
   }
 
   #header.open {
-    height: 365px;
+    height: 395px;
     background: white;
   }
 
-  #header .open>.header-logo {
+  #header.open>.header-logo {
     position: absolute;
     left: 4px;
     top: 4px;
@@ -127,25 +135,29 @@ h2 {
   :nth-child(1) {
     --nth-child: 1
   }
-  
+
   :nth-child(2) {
     --nth-child: 2
   }
-  
+
   :nth-child(3) {
     --nth-child: 3
   }
-  
+
   :nth-child(4) {
     --nth-child: 4
   }
-  
+
   :nth-child(5) {
     --nth-child: 5
   }
-  
+
   :nth-child(6) {
     --nth-child: 6
+  }
+
+  :nth-child(7) {
+    --nth-child: 7
   }
 }
 
@@ -186,7 +198,6 @@ h2 {
   z-index: -6;
   margin: auto;
   padding: 0 20px;
-
   max-width: 520px;
   margin: 0 auto;
   margin-bottom: 30px;
@@ -228,7 +239,6 @@ h2 {
 #footer {
   margin-top: 5rem;
   width: 100%;
-  /* height: 450p x; */
   background: rgb(27, 18, 45);
   background: linear-gradient(67deg, rgba(27, 18, 45, 1) 0%, rgba(36, 22, 61, 1) 35%, rgba(53, 33, 92, 1) 100%);
   overflow: hidden;
@@ -281,7 +291,6 @@ h2 {
   color: #b7a57a;
   text-decoration: underline;
 }
-
 
 .email-link {
   text-decoration: none;
@@ -353,7 +362,7 @@ a.anchor:hover span {
   display: block;
 }
 
-.card:hover {
+a.card:hover {
   color: #B7A57A;
   box-shadow: 0px 10px 20px #00000011;
 }
@@ -398,4 +407,13 @@ a.anchor:hover span {
 
 .card-text {
   margin: 0.5rem;
+}
+
+.text-container {
+  border: #ccc solid 1px;
+  padding: 1.5em;
+}
+
+.text-container h2 {
+  margin: 0;
 }

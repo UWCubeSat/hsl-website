@@ -1,51 +1,12 @@
-.mission-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
 .mission-description {
-    max-width: 600px;
+    max-width: 40em;
     margin-left: 20px;
     margin-right: 20px;
 }
 
 
-.mission-highlight-image-container {
-    display: flex;
-    justify-content: left;
-    min-width: 320px;
-}
-
 .mission-highlight-image {
-    object-fit: cover;
     width: 400px;
-    padding-bottom: 20px;
-}
-
-
-
-
-
-.status-card {
-    width: 340px;
-    margin-left: auto;
-    margin-right: auto;
-
-    border-radius: 10px;
-    border-collapse: separate;
-    border-style: solid;
-    border-width: 1px;
-    border-color: #ccc;
-    perspective: 1px;
-    overflow: hidden;
-    box-shadow: 0px 5px 10px #00000009;
-    background-color: #fff;
-
-    text-decoration: none;
-    text-align: center;
-    color: #333;
-    transition: 150ms ease-out box-shadow, 150ms ease-out color;
 }
 
 .status-name {
@@ -53,30 +14,15 @@
     margin: 0px;
     font-size: 16px;
     line-height: 37px;
+    text-align: center;
 }
 
 
 .status-detail-container {
     position: relative;
     border-top: #ccc solid 1px;
-    display: grid;
-    grid-template-columns: 3fr 2fr;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-div.status-detail-container p {
-    font-size: 14px;
-    line-height: 20px;
-    margin: 0px;
     text-align: left;
-}
-
-.status-category {
-    font-weight: 600;
-    padding-left: 10px;
-}
-
-.status-detail {
-    padding-right: 10px;
+    padding: 5px;
+    width: 100%;
+    line-height: 1.4em;
 }
