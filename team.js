@@ -619,10 +619,12 @@ var cards = {
 
 cards.forEach((member) =>
   document.write(
-    `${member["link"] ? `<a href="${member.link}" target="_blank" rel="noopener"` : `<div`} class="team-member-card">
-      <img width=200px height=200px class="team-member-photo" src="/images/members/${member.image}">
-      <p class="team-member-name">${member.name}</p>
-      <p class="team-member-roles">${member.roles}</p>
+    `${member["link"] ? `<a href="${member.link}" target="_blank" rel="noopener"` : `<div`} class="card" style="max-width: 200px">
+      <div class="card-img-container">
+        <img width=200px height=200px class="card-img" src="/images/members/${member.image}">
+      </div>
+      <p class="card-title-left">${member.name}</p>
+      <p class="card-text">${member.roles}</p>
     ${(member["link"] ? `</a>` : `</div>`)}
     `
   )

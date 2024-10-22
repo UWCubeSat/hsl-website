@@ -1,6 +1,6 @@
 document.write(
     `
-<div class="footer">
+<footer id="footer">
     <div class="footer-content">
         <div class="footer-element">
             <p class="footer-column-header">Connect with us</p>
@@ -32,7 +32,7 @@ document.write(
     <div class="netlify-logo">
         <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" /> </a>
     </div>
-</div>
+</footer>
 
 `
 );
