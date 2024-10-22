@@ -33,7 +33,7 @@
     margin-right: auto;
 
     border-radius: 10px;
-    border-collapse: separate; 
+    border-collapse: separate;
     border-style: solid;
     border-width: 1px;
     border-color: #ccc;
@@ -44,7 +44,7 @@
 
     text-decoration: none;
     text-align: center;
-    color:#333;
+    color: #333;
     transition: 150ms ease-out box-shadow, 150ms ease-out color;
 }
 
@@ -52,13 +52,13 @@
     font-weight: 600;
     margin: 0px;
     font-size: 16px;
-    line-height: 37px;    
+    line-height: 37px;
 }
 
 
 .status-detail-container {
     position: relative;
-    border-top:#ccc solid 1px;
+    border-top: #ccc solid 1px;
     display: grid;
     grid-template-columns: 3fr 2fr;
     padding-top: 5px;

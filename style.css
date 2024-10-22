@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Titillium Web', sans-serif;
-  /* background-color: #eee; */
+  background-color: #eee;
   font-size: 18px;
   margin: 0px;
   overflow-x: hidden;
@@ -273,24 +273,41 @@ a.anchor:hover span {
 
 .material-symbols-outlined {
   /* this is a dirty hack that _will_ fall over at some point */
-  font-size: 40px!important;
-  line-height: 40px!important;
+  font-size: 40px !important;
+  line-height: 40px !important;
   transform: translate(0px, 5px);
-  width: 40px!important;
-  height: 40px!important;
+  width: 40px !important;
+  height: 40px !important;
   font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 24
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
 }
 
-:nth-child(1) { --nth-child: 1 }
-:nth-child(2) { --nth-child: 2 }
-:nth-child(3) { --nth-child: 3 }
-:nth-child(4) { --nth-child: 4 }
-:nth-child(5) { --nth-child: 5 }
-:nth-child(6) { --nth-child: 6 }
+:nth-child(1) {
+  --nth-child: 1
+}
+
+:nth-child(2) {
+  --nth-child: 2
+}
+
+:nth-child(3) {
+  --nth-child: 3
+}
+
+:nth-child(4) {
+  --nth-child: 4
+}
+
+:nth-child(5) {
+  --nth-child: 5
+}
+
+:nth-child(6) {
+  --nth-child: 6
+}
 
 @media (max-width: 600px) {
   .header-link {
@@ -298,14 +315,14 @@ a.anchor:hover span {
   }
 
   .header-cta-link {
-    margin: 40px 30px!important;
+    margin: 40px 30px !important;
   }
 
   .header.open {
     height: 365px;
   }
 
-  .header.open > .header-logo {
+  .header.open>.header-logo {
     position: absolute;
     left: 4px;
     top: 4px;
@@ -314,7 +331,7 @@ a.anchor:hover span {
     margin: initial
   }
 
-  .header > a:nth-child(n+2) {
+  .header>a:nth-child(n+2) {
     position: absolute;
     right: 0;
     top: 0;
@@ -322,7 +339,7 @@ a.anchor:hover span {
   }
 
   .header-hamburger-button {
-    display: block!important;
+    display: block !important;
   }
 
   .header.open {

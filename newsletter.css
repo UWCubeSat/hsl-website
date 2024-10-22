@@ -29,9 +29,9 @@
     box-sizing: border-box;
     display: grid;
     grid-column-gap: 40px;
-    
+
     grid-row-gap: 36px;
-    grid-template-columns: repeat(auto-fit,calc(max((100% - 80px) / 3, 350px)));
+    grid-template-columns: repeat(auto-fit, calc(max((100% - 80px) / 3, 350px)));
     /* grid-template-columns: repeat(3,calc((100% - 36px) / 3)); */
     /* grid-template-columns: repeat(auto-fit, 300px); */
     justify-content: center;

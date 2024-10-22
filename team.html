@@ -1,55 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <script src="head.js"></script>
-    <title>HuskySat Team</title>
-    <meta property="og:image" content="/images/hsl-logo-no-text-bw.png">
-    <link rel="stylesheet" href="team.css">
-  </head>
-  <body style="background-color: #eee;">
-    <script src="header.js"></script>
+
+<head>
+  <script src="head.js"></script>
+  <title>HuskySat Team</title>
+  <link rel="stylesheet" href="team.css">
+</head>
+
+<body>
+  <script src="header.js"></script>
 
 
-    <h1 style="max-width: 80%;">Meet the Husky Satellite Lab Team</h1>
-    <p class="subtitle" style="width: 380px">
-        Our team is composed primarily of UW students of
-        all backgrounds and levels of experience, as well as
-        mentors from the local aerospace industry.
-    </p>
+  <h1 style="max-width: 80%;">Meet the Husky Satellite Lab Team</h1>
+  <p class="subtitle" style="width: 380px">
+    Our team is composed primarily of UW students of
+    all backgrounds and levels of experience, as well as
+    mentors from the local aerospace industry.
+  </p>
 
-    <!-- Invisible leadership div so that old links aren't broken -->
-    <div id="leadership" style="visibility: hidden">Hidden anchor.</div>
+  <!-- Invisible leadership div so that old links aren't broken -->
+  <div id="leadership" style="visibility: hidden">Hidden anchor.</div>
 
-    <h2>Leadership<a href="#leadership" class="anchor" id="board"><span class="material-symbols-outlined">link</span></a></h2>
+  <h2>Leadership<a href="#leadership" class="anchor" id="board"><span class="material-symbols-outlined">link</span></a>
+  </h2>
 
-    <div class="team-member-container">
-        <script src="team.js" team="leadership"></script>
+  <div class="team-member-container">
+    <script src="team.js" team="leadership"></script>
+  </div>
+
+
+  <h2>Members<a href="#members" class="anchor" id="members"><span class="material-symbols-outlined">link</span></a></h2>
+
+  <div class="team-member-container">
+    <script src="team.js" team="members"></script>
+  </div>
+
+
+  <h2>Alumni<a href="#alumni" class="anchor" id="alumni"><span class="material-symbols-outlined">link</span></a></h2>
+
+  <div class="team-member-container">
+    <div class="team-member-card" style="max-width: 400px;">
+      <img class="team-member-photo" src="/images/members/winglee.jpg" style="max-width: 400px;">
+      <p class="team-member-name">Professor Robert Winglee</p>
+      <p class="team-member-roles">Faculty Advisor & Principal Investigator</p>
     </div>
+  </div>
 
+  <div class="team-member-container" style="max-width: 1200px;">
+    <script src="team.js" team="alumni"></script>
+  </div>
 
-    <h2>Members<a href="#members" class="anchor" id="members"><span class="material-symbols-outlined">link</span></a></h2>
+  <div style="height: 100px"></div>
 
-    <div class="team-member-container">
-        <script src="team.js" team="members"></script>
-    </div>
+  <script src="footer.js"></script>
+</body>
 
-
-    <h2>Alumni<a href="#alumni" class="anchor" id="alumni"><span class="material-symbols-outlined">link</span></a></h2>
-
-    <div class="team-member-container">
-        <div class="team-member-card" style="max-width: 400px;">
-            <img class="team-member-photo" src="/images/members/winglee.jpg" style="max-width: 400px;">
-            <p class="team-member-name">Professor Robert Winglee</p>
-            <p class="team-member-roles">Faculty Advisor & Principal Investigator</p>
-        </div>
-    </div>
-
-    <div class="team-member-container" style="max-width: 1200px;">
-        <script src="team.js" team="alumni"></script>
-    </div>
-
-    <div style="height: 100px"></div>
-
-    <script src="footer.js"></script>
-  </body>
 </html>

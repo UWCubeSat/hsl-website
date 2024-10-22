@@ -1,5 +1,5 @@
 document.write(
-`
+    `
 <div id="header" class="header">
     <a class="header-logo" href="index.html">
     <a class="header-link" href="team.html">TEAM</a>
@@ -14,11 +14,11 @@ document.write(
 );
 
 var header = document.getElementById('header');
-      
-document.addEventListener('scroll', function(e) {
-if (window.scrollY > 0) {
-    header.classList.add("header-scrolled");
-} else {
-    header.classList.remove("header-scrolled");
-}
+
+document.addEventListener('scroll', function (e) {
+    if (window.scrollY > 0) {
+        header.classList.add("header-scrolled");
+    } else {
+        header.classList.remove("header-scrolled");
+    }
 });

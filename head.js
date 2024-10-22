@@ -1,8 +1,8 @@
 document.write(
-`
+    `
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=0.7">
-
+<meta property="og:image" content="/images/hsl-logo-no-text-bw.png">
 <link rel="stylesheet" href="style.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
