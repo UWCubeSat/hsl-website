@@ -23,6 +23,17 @@ var leadership = [
     "link": "https://www.linkedin.com/in/victorch/"
   },
   {
+    "name": "Parsa Entekhabi",
+    "roles": "Secretary<br>Power Lead",
+    "image": "parsa-entekhabi.jpg",
+    "link": "https://www.linkedin.com/in/parsa-entekhabi-6a403627b/"
+  },
+  {
+    "name": "Evan Gubarev",
+    "roles": "Comms Lead<br>Algorithmic Software",
+    "image": "evan-gubarev.jpg"
+  },
+  {
     "name": "Cameron Lee",
     "roles": "President<br>Lab Coordinator<br>Solar Panels Member",
     "image": "cameron-lee.jpg"
@@ -185,8 +196,19 @@ var members = [
     "link": "https://www.linkedin.com/in/benjamin-phillips11/"
   },
   {
+    "name": "Aiden Sparks",
+    "roles": "Flight Computer",
+    "image": "aiden-sparks.jpg",
+    "link": "https://www.linkedin.com/in/aiden-sparks-0a161a22b/"
+  },
+  {
     "name": "Christopher Tan",
     "roles": "Software Engineer",
+    "image": "member-nopic.png"
+  },
+  {
+    "name": "Dean Watanasri",
+    "roles": "Software",
     "image": "member-nopic.png"
   },
   {
