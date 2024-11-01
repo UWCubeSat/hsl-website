@@ -117,6 +117,17 @@ var members = [
     "link": "https://www.linkedin.com/in/ellisondykes"
   },
   {
+    "name": "Ben Farinella",
+    "roles": "Reaction Wheels",
+    "image": "member-nopic.png"
+  },
+  {
+    "name": "Alex Ganesan",
+    "roles": "Reaction Wheels",
+    "image": "alex-ganesan.jpg",
+    "link": "www.linkedin.com/in/alexis-ganesan-a760b4271"
+  },
+  {
     "name": "Manasi Ganti",
     "roles": "Star Tracker",
     "image": "member-nopic.png",
@@ -188,6 +199,12 @@ var members = [
     "roles": "Software & Electronics",
     "image": "aaron-mcbride.jpg",
     "link": "https://www.aaron-mcbride.com"
+  },
+  {
+    "name": "Nicholas Peterson",
+    "roles": "Electrical Power Systems",
+    "image": "nicholas-peterson.jpg",
+    "link": "www.linkedin.com/in/nick-peterson2004"
   },
   {
     "name": "Benjamin Phillips",
