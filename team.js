@@ -202,9 +202,9 @@ var members = [
     "link": "https://www.linkedin.com/in/yaj-jhajhria/"
   },
   {
-    "name": "Arjun Khamar",
+    "name": "Arjun Khamkar",
     "roles": "Star Tracker<br>Reaction Wheels",
-    "image": "arjun-khamar.jpg",
+    "image": "arjun-khamkar.jpg",
     "link": "https://arrythebeast.github.io/Portfolio-Website/"
   },
   {
@@ -266,6 +266,12 @@ var members = [
     "link": "https://www.linkedin.com/in/peter-preisler-954609296/"
   },
   {
+    "name": "Alex Ross",
+    "roles": "Propulsion Engineer",
+    "image": "alex-ross.jpg",
+    "link": "https://www.linkedin.com/in/alex-ross-26684a307/"
+  },
+  {
     "name": "Patrick Rungruengwatanachai",
     "roles": "Software",
     "image": "patrick-rungruengwatanachai.jpg",
@@ -286,6 +292,12 @@ var members = [
     "name": "Dean Watanasri",
     "roles": "Software",
     "image": "member-nopic.png"
+  },
+  {
+    "name": "Daniel Zhang",
+    "roles": "Star Tracker",
+    "image": "daniel-zhang.jpg",
+    "link": "https://www.linkedin.com/in/daniel-zhang-49919a257/"
   },
   {
     "name": "Jeffery Zhang",
