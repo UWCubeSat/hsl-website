@@ -208,6 +208,12 @@ var members = [
     "link": "https://arrythebeast.github.io/Portfolio-Website/"
   },
   {
+    "name": "Manvith Kothapalli",
+    "roles": "Star Tracker",
+    "image": "manvith-kothapalli.jpg",
+    "link": "https://www.linkedin.com/in/manvith-kothapalli-aspire-to-inspire/"
+  },
+  {
     "name": "David Kras",
     "roles": "Solar Panels",
     "image": "david-kras.jpg"
