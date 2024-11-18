@@ -242,6 +242,12 @@ var members = [
     "link": "https://www.linkedin.com/in/yehoshua-luna"
   },
   {
+    "name": "Sartaj Mahal",
+    "roles": "Star Tracker",
+    "image": "sartaj-mahal.jpg",
+    "link": "https://www.linkedin.com/in/sartaj-mahal/"
+  },
+  {
     "name": "Aaron McBride",
     "roles": "Software & Electronics",
     "image": "aaron-mcbride.jpg",
