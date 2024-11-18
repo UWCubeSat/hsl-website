@@ -15,14 +15,19 @@ var sponsors = [
     image: 'images/sponsors/200/nasa-icon-200.png',
   },
   {
-    name: 'AMSAT',
-    url: 'https://www.amsat.org/',
-    image: 'images/sponsors/200/amsat-logo-200.png',
+    name: "University Nanosatellite Program",
+    url: "https://universitynanosat.org/",
+    image: "/images/sponsors/200/unp-logo-200.png"
   },
   {
     name: 'Apex',
     url: 'https://www.apexspace.com/',
     image: 'images/sponsors/200/apex-logo-200.png'
+  },
+  {
+    name: 'AMSAT',
+    url: 'https://www.amsat.org/',
+    image: 'images/sponsors/200/amsat-logo-200.png',
   },
   {
     name: 'Valispace',

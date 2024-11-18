@@ -396,9 +396,10 @@ a.card:hover {
   color: #333;
   text-align: center;
   font-weight: 600;
-  margin: 0px;
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
   font-size: 1em;
-  line-height: 2.4em;
+  line-height: 1.2em;
 }
 
 .card-title-left {
